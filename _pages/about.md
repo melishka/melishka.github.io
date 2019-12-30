@@ -19,7 +19,7 @@ I am currently working on several research projects related to the evaluation of
 
 I am the first author on two working papers on this topic.  Drafts available on request.  
 
-  -Is the Public Sweet on Sugary Beverages? Social Desirability Bias and Sweetened Beverage Taxes (with Vanessa Oddo, Jessica Jones-      Smith, and Lina Pinero Walkinshaw) (revise and resubmit)
+1. Is the Public Sweet on Sugary Beverages? Social Desirability Bias and Sweetened Beverage Taxes (with Vanessa Oddo, Jessica Jones-      Smith, and Lina Pinero Walkinshaw) (revise and resubmit)
 
 2. Strategic Firm Responses to Sin Taxes and Tax Pass-Through: Evidence from Seattle’s Sweetened Beverage Tax (with Jessica Jones-Smith, Lina Pinero Walkinshaw, and Vanessa Oddo)
 
@@ -34,9 +34,9 @@ I also completed an independent report on the impact of beverage tax spending on
 
 I continue to work on the Mexican health care system, specifically the Seguro Popular reform.  I have two completed working papers that are hopefully making their way to publication soon.  Drafts available on request.
 
-Social Safety Net Programs and the Flow of Return Migrants: Evidence from the Public Provision of Health Insurance in Mexico (with Jaime Lara, Universidad de Monterrey) (submitted)
+1. Social Safety Net Programs and the Flow of Return Migrants: Evidence from the Public Provision of Health Insurance in Mexico (with Jaime Lara, Universidad de Monterrey) (submitted)
 
-Health Care Reform - Transfer Program or Something More?  Evidence from Mexico’s Seguro Popular Program (revise and resubmit)
+2. Health Care Reform - Transfer Program or Something More?  Evidence from Mexico’s Seguro Popular Program (revise and resubmit)
 
 The next projects will derive from the pilot research below:
 Selection, Moral Hazard, and Demand for Preventive Care under Universal Health Care
