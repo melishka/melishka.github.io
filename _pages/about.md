@@ -25,10 +25,10 @@ I am the first author on two working papers on this topic.  Drafts available on 
 
 <b>Our reports to the City of Seattle can be found here:</b>
 
-Baseline Report
-Six Month Post-Tax Report
-Food Availability Report
-I also completed an independent report on the impact of beverage tax spending on the WA farm economy (with Lina Pinero Walkinshaw)
+Baseline Report<br>
+Six Month Post-Tax Report<br>
+Food Availability Report<br>
+I also completed an independent report on the impact of beverage tax spending on the WA farm economy (with Lina Pinero Walkinshaw)<br>
 
 <b>Mexican Health Care System:</b>
 
