@@ -9,8 +9,6 @@ redirect_from:
 ---
 I am an economist at the University of Washington with a focus in health economics.  My main research is in the ways that households respond to changes in health policy and health care reform in Mexico and Seattle, but my interests vary widely, from individual fertility decisions to the behavioral responses of firms to policy.  My Ph.D. is from UC Berkeley Economics, where I specialized in Economic Development and Industrial Organization, and held a fellowship in Demography.  I teach microeconomic theory (from intro to advanced) and the economics of population and development.   
 
-I grew up in a Mexican-American family in Las Vegas, Nevada, and am the second person in my family to go to college.  I will always lend a hand to my non-trad peers and students.  
-
 <b><i>Current Projects</i></b>
 
 <b>Seattle’s Sweetened Beverage Tax:</b>
