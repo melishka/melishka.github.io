@@ -38,9 +38,37 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2020 <br>
+  * Population Association of America Annual Meeting, Washington, DC (upocoming)
+* 2019 <br>
+  * Interdisciplinary Association for Population Health Science Conference, Seattle, WA  
+  * Northwest Development Workshop, Portland, OR
+  * Population Association of America Annual Meeting, Austin, TX
+  * Pacific Conference for Development Economics, Los Angeles, CA
+* 2018 <br>
+  * Southern Economic Association Annual Meeting, Washington, DC
+  * Western Economic Association International Annual Conference, Vancouver, Canada
+  * Congreso Anual de Economia y de Polıticas Publicas, Mexico City, Mexico
+* 2017 <br>
+  * Western Economic Association International Annual Conference, San Diego, CA
+* 2016 <br>
+  * Southern Economic Association Annual Meeting, Washington, DC
+  * Invited Seminar, Universidad Aut´onoma de Nuevo Leon, Monterrey, Mexico
+  * Society of Labor Economists Annual Meeting, Seattle, WA
+  * Berkeley Formal Demography Session at Population Association of America
+    Annual Meeting, Washington D.C.
+  * ASSA Annual Meetings, San Francisco, CA
+* 2015 <br>
+  * Southern Economic Association CSWEP Sessions, New Orleans, LA
+  * UW Center for Studies in Demography and Ecology Seminar, Seattle, WA (x2)
+* 2014 <br>
+  * UW Economics Undergraduate Board Paul Heyne Seminar, Seattle, WA
+* 2012 <br>
+  * China and the World Economy, Seattle, WA
+* 2009 <br>
+  * CSMGEP Dissertation Session, ASSA Annual Meetings, San Francisco, CA
+  * Pacific Conference for Development Economics, San Francisco, CA
+
   
 Grants
 ======
