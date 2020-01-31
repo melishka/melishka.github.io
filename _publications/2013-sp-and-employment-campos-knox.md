@@ -6,7 +6,7 @@ excerpt: 'We analyze the effect of Seguro Popular on employment across Mexico us
 Seguro Popular and the decision of workers to be employed in the formal or informal sector.'
 date: 2013-01-01
 venue: 'Economía Mexicana'
-paperurl: 'http://melishka.github.io/files/2013_sp_and_employment_campos_knox.pdf'
+paperurl: 'files/2013_sp_and_employment_campos_knox.pdf'
 citation: 'Campos-Vázquez, Raymundo M.; Knox, Melissa A.
 Social Protection Programs and Employment The Case of Mexico’s Seguro Popular Program
 <i>Economía Mexicana</i>. Nueva Época, vol. XXII, núm. 2, 2013, pp. 403-448.'
