@@ -2,9 +2,9 @@
 title: "Pacific Northwest Labor Day 2019"
 collection: conferences
 type: "Talk"
-permalink: /talks/PNWLD-209
+permalink: /talks/PNWLD-2019
 venue: "Oregon State Univeristy Portland Center"
-date: 2012-03-01
+date: 2019-09-13
 location: "Portland, OR"
 ---
 
