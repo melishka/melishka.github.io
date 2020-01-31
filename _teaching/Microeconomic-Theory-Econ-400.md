@@ -7,8 +7,7 @@ venue: "University of Washington, Department of Economics"
 date: 2012-01-01
 location: "Seattle, WA"
 ---
-Econ 400 is a course in advance microeconomic theory that covers consumer and producer theory, uncertainty, and nash equilrium.  
-I teach using multivariate calculus, and students are responsible for derivations of key concepts.  The text is Nicholson and Snyder.
+Econ 400 is a course in advance microeconomic theory that covers consumer and producer theory, uncertainty, and nash equilibrium.  I teach using multivariate calculus, and students are responsible for derivations of key concepts.  The text is Nicholson and Snyder.
 
 I typically teach Econ 400 twice a year and have been teaching it since 2012.
 
