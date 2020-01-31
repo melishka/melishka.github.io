@@ -181,10 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  conferences:
     output: true
     permalink: /:collection/:path/
-  talks:
+  outreach:
     output: true
     permalink: /:collection/:path/
 
@@ -227,19 +227,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _conferences
   - scope:
       path: ""
-      type: portfolio
+      type: conferences
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _outreach
   - scope:
       path: ""
-      type: talks
+      type: outreach
     values:
       layout: talk
       author_profile: true
