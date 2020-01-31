@@ -10,7 +10,7 @@ citation: 'Campos-Vázquez, Raymundo M.; Knox, Melissa A.
 Social Protection Programs and Employment The Case of Mexico’s Seguro Popular Program
 <i>Economía Mexicana</i>. Nueva Época, vol. XXII, núm. 2, 2013, pp. 403-448.'
 ---
-[Download paper here]('files/2013_sp_and_employment_campos_knox.pdf')
+[Download paper here](files/2013_sp_and_employment_campos_knox.pdf)
 
 Recommended citation: Campos-Vázquez, Raymundo M.; Knox, Melissa A.
 Social Protection Programs and Employment The Case of Mexico’s Seguro Popular Program
