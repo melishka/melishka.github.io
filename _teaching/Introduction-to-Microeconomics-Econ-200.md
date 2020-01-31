@@ -4,9 +4,11 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/Introduction-to-Microeconomics-Econ-200
 venue: "University of Washington, Department of Economics"
-date: 2011-01-01
 location: "Seattle, WA"
 ---
+Econ 200 is the first course in the economics sequence at the University of Washington.  We cover consumer theory (preferences, demand) and producer theory (prouction, firm costs, profit maximization, supply curves, perfectly competitve markets, imperfect competition), and the economic consequences of market failure and government intervention (externalities, price controls, taxes and subsidies, efficiency and deadweight loss).  
+
+The text is Karlan and Morduch.
 
 What is Economics?
 ======
