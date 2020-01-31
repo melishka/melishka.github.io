@@ -1,0 +1,28 @@
+---
+title: "Pacific Northwest Labor Day 2016"
+collection: conferences
+type: "Talk"
+permalink: /talks/PNWLD-2016
+venue: "University of Washington"
+date: 2016-09-23
+location: "Seattle, WA"
+---
+
+<p align="center">
+<b> Pacific Northwest Labor Day Workshop <br>
+September 23, 2016 <br>
+University of Washington <br>
+Savery Hall <br>
+Seattle, WA </b>
+</p>
+
+ ### Program
+ -------
+* The Productivity of Rural Non-Farm Self-Employment in India (Joshua D. Merfeld, University of Washington)
+* Time Allocation Between Children, the Home and Work: Theory and Evidence on the ‘Parental Time – Education Gradient’ Puzzle (Tímea Laura Molnár, University of British Columbia)
+* Only if You Pay Me More: Field Experiments Support Compensating Wage Differentials Theory (Claus Portner, with Nail Hassairi, and Michael Toomim, Seattle University and University of Washington)
+* The Impact of Labor Market Conditions on Job Creation: Evidence from Firm Level Data (Ekaterina Roshchina, University of Washington)
+* The Language of the Unheard: Legal Services and the 1960s Race Riots (Jamein P. Cunningham, Portland State University)
+* Mexico’s Seguro Popular Health Reform: Income Transfer Program or Something More? (Melissa Knox, University of Washington)
+* The Affordable Care Act’s Medicaid Fee Increase, Prior Medicaid Generosity, and Disparities in Access to Primary Care (Rajiv Sharma, Sarah Tinkler, Arnab Mitra, Sudeshna Pal, Raven Susu-Mago, Miron Stano, Portland State University and Oakland University)
+* Effect of Fiscal Stress Labels on Municipal Government Finances, Housing Prices, and the Quality of Public Services: Evidence from Ohio (Paul Thompson, Oregon State University)
