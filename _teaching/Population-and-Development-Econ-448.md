@@ -1,4 +1,3 @@
-
 ---
 title: "Population and Development (Economics 448)"
 collection: teaching
