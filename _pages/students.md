@@ -10,7 +10,7 @@ author_profile: true
 
 <p>This page is meant to provide resources for students and to answer frequently asked questions.  You can navigate the page with the links above.  Would you like to see more resources here?  Email me! </p>
 
-#### Sections
+### Sections
 [Recommendation Letters](#recommendation-letter-guidelines) <br>
 [Data Sources & Tips](#data-sources-for-students)
 
