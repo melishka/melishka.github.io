@@ -1,21 +1,9 @@
 ---
 title: "Pacific Northwest Labor Day 2017"
+excerpt: "Seattle, WA (September 20, 2017)"
 collection: conferences
-type: "Talk"
-permalink: /talks/PNWLD-2017
-venue: "University of Washington"
-date: 2017-09-30
-location: "Seattle, WA"
 ---
 
-<p align="center">
-<b>2nd Annual <br>
-Pacific Northwest Labor Day Workshop <br>
-Friday, September 30, 2017 <br>
-University of Washington <br>
-Savery Hall <br>
-Seattle, WA </b>
-</p>
 
  ### Program
  -------
