@@ -1,20 +1,9 @@
 ---
 title: "Pacific Northwest Labor Day 2019"
+excerpt: "Portland, OR (September 13, 2019)"
 collection: conferences
-type: "Talk"
-permalink: /talks/PNWLD-2019
-venue: "Oregon State Univeristy Portland Center"
-date: 2019-09-13
-location: "Portland, OR"
 ---
 
-<p align="center">
-<b>4th Annual <br>
-Pacific Northwest Labor Day Workshop <br>
-Friday, September 13, 2019 <br>
-Oregon State University Portland Center <br>
-Portland, OR </b>
-</p>
 
  ### Program
  -------
