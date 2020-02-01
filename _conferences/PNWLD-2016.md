@@ -1,11 +1,6 @@
 ---
 title: "Pacific Northwest Labor Day 2016"
 collection: conferences
-type: "Talk"
-permalink: /talks/PNWLD-2016
-venue: "University of Washington"
-date: 2016-09-23
-location: "Seattle, WA"
 ---
 
 <p align="center">
