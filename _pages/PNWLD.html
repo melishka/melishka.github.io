@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PNWLD"
+title: "PNW Labor Day"
 permalink: /PNWLD/
 author_profile: true
 redirect_from:
@@ -23,7 +23,12 @@ Email pnwldorganize@gmail.com with any questions, or to be included in the works
 
 Past Programs
 ======
-  <ul>{% for post in site.conferences %}
-    {% include archive-single-PNWLD.html %}
-  {% endfor %}</ul>
+
+
+{% include base_path %}
+
+{% for post in site.conferences reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
   
