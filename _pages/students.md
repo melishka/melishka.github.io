@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+
+<p>This page is meant to provide resources for students and to answer frequently asked questions.  You can navigate the page with the links above.  Would you like to see more resources here?  Email me! </p>
+
 #### Sections
-[Recommendation Letters](#recommendation-letter-guidelines) 
+[Recommendation Letters](#recommendation-letter-guidelines) <br>
 [Data Sources & Tips](#data-sources-for-students)
 
 -----------------------------------------------
-
-This page is meant to provide resources for students and to answer frequently asked questions.  You can navigate the page with the links above. 
-Would you like to see more resources here?  Email me!
 
 ### Recommendation Letter Guidelines
 -------
@@ -47,8 +47,11 @@ Economist Intelligence Unit (UW only): Good background data on most countries
 
 #### Data Analysis Tips
 -----------------
-Set of Stata 15 cheat sheets (Stata 14 also available at link): https://geocenter.github.io/StataTraining/portfolio/01_resource/
-You should probably learn R, though: https://www.r-econometrics.com/methodsintro/
-And how to clean data in R using tidyverse: https://tidyr.tidyverse.org/articles/tidy-data.html
-Data Viz is the new black: https://www.data-to-viz.com/#venn
+[Set of Stata 15 cheat sheets](https://geocenter.github.io/StataTraining/portfolio/01_resource/) (Stata 14 also available at link) 
+
+[You should probably learn R, though](https://www.r-econometrics.com/methodsintro/)
+
+[And how to clean data in R using tidyverse](https://tidyr.tidyverse.org/articles/tidy-data.html)
+
+[Data viz is the new black](https://www.data-to-viz.com/#venn)
 
