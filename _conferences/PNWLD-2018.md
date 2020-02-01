@@ -1,21 +1,8 @@
 ---
 title: "Pacific Northwest Labor Day 2018"
+excerpt: "Seattle, WA (September 30, 2018)"
 collection: conferences
-type: "Talk"
-permalink: /talks/PNWLD-2018
-venue: "University of Washington"
-date: 2018-09-29
-location: "Seattle, WA"
 ---
-
-<p align="center">
-<b>3rd Annual <br>
-Pacific Northwest Labor Day Workshop <br>
-Friday, September 29, 2018 <br>
-Savery Hall <br>
-University of Washington <br>
-Seattle, WA </b>
-</p>
 
  ### Program
  -------
