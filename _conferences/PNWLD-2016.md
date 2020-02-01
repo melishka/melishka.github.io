@@ -1,14 +1,12 @@
 ---
 title: "Pacific Northwest Labor Day 2016"
+excerpt: "Seattle, WA (September 23, 2016)"
 collection: conferences
 ---
 
 
 
-<b>September 23, 2016 <br>
-University of Washington <br>
-Savery Hall <br>
-Seattle, WA </b>
+
 
 
  ### Program
