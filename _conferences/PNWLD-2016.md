@@ -3,13 +3,13 @@ title: "Pacific Northwest Labor Day 2016"
 collection: conferences
 ---
 
-<p align="center">
-<b> Pacific Northwest Labor Day Workshop <br>
-September 23, 2016 <br>
+
+
+<b>September 23, 2016 <br>
 University of Washington <br>
 Savery Hall <br>
 Seattle, WA </b>
-</p>
+
 
  ### Program
  -------
