@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<br>
 # Reports
+---------------------
 ## Seattle's Sweetened Beverage Tax
 I am part of a team of researchers at UW, Public Health Seattle/King County, and Seattle Children's Hospital who have evaluated the impacts
 of Seattle's Sweetened Beverage Tax (SBT), introduced in 2018.  I have linked to the reports to which I have contributed below.  My contribution has mainly been in 
@@ -18,10 +19,13 @@ evaluating the impact of the tax on beverage prices and attitudes related to the
 [Food Availability Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/030519%20Corrected%20Healthy%20Food%20Availability%20Food%20Bank%20Network%20Report_FINAL.pdf) <br>
 
 ## Washington Farm Economy
-Related to my work on the SBT, I produced and independent report with Lina Pinero Walkinshaw on the effect of Seattle's spending of SBT revenues on food access programs.
-Specifically, we looked at the ways in which this spending benefitted the Washington farm economy. 
+Related to my work on the SBT, I produced and independent report with Lina Pinero Walkinshaw on the effect of Seattle's spending of SBT revenues on food access programs.  Specifically, we looked at the ways in which this spending benefitted the Washington farm economy.
+
+[WA Farm Economy Report](https://nutr.uw.edu/resource/city-of-seattle-food-access-spending-farm-economy-analysis-report/)
+
 
 
 # Public Engagement
+------------------------------------
 [Can a tax on stock trades pay off the nations student debt?](https://theconversation.com/could-a-tax-on-stock-trades-pay-off-the-nations-student-debt-119514)
 22 July 2019. [The Conversation](https://theconversation.com/us). Reposted at: Chicago Tribune, Houston Chronicle, SF Gate, Seattle Post-Intelligencer, Motley Fool, and others.
