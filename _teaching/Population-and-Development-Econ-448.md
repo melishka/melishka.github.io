@@ -8,6 +8,8 @@ Econ 448 is an undergraduate cours that covers economic theories of fertility, m
 
 I typically teach it twice a year.  Full syllabus and reading list available on request.
 
+[Econ 448 Syllabus](https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20448%20Syllabus%20Win%2020.pdf)
+
 Course Description
 ======
 This course is designed to introduce students to the subject of international economic development, with a focus on population issues.  Since I am an economist, we will be focusing on the topics and tools of economics, and the body of knowledge so far, as created by economists.  Topics include demography, poverty and income inequality, fertility choice, sex selection, marriage choice and the role of women, parental investments in child health and education, including discrimination against girls, and migration and urbanization. 
@@ -39,5 +41,5 @@ Course Outline
   a.	Agricultural surplus and urban migration <br>
   b.	International migration <br>
 
-[Econ 448 Syllabus](https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20448%20Syllabus%20Win%2020.pdf)
+
 
