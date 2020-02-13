@@ -16,6 +16,9 @@ main:
   - title: "For Students"
     url: /students/
     
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "CV"
     url: /files/Knox_cv_2020.pdf
 
