@@ -1,10 +1,9 @@
 ---
 title: "Population and Development (Economics 448)"
 collection: teaching
-type: default
 permalink: /teaching/Population-and-Development-Econ-448
-venue: "University of Washington, Department of Economics"
 ---
+[Econ 448 Syllabus](https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20448%20Syllabus%20Win%2020.pdf)
 
 Econ 448 is an undergraduate cours that covers economic theories of fertility, marriage, intra-household decision making, gender discrimination, and migration, with real-world applications to the process of economic development.  It fulfills the university's diversity and writing credit requirements.
 
@@ -41,4 +40,4 @@ Course Outline
   a.	Agricultural surplus and urban migration <br>
   b.	International migration <br>
 
-[Econ 448 Syllabus](https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20448%20Syllabus%20Win%2020.pdf)
+
