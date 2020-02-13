@@ -1,7 +1,6 @@
 ---
 title: "Microeconomic Theory (Economics 400)"
 collection: teaching
-type: "default"
 permalink: /teaching/Microeconomic-Theory-Econ-400
 venue: "University of Washington, Department of Economics"
 ---
