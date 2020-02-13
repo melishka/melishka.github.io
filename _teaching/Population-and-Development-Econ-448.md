@@ -1,7 +1,7 @@
 ---
 title: "Population and Development (Economics 448)"
 collection: teaching
-type: "Undergraduate"
+type: default
 permalink: /teaching/Population-and-Development-Econ-448
 venue: "University of Washington, Department of Economics"
 ---
@@ -41,3 +41,4 @@ Course Outline
   a.	Agricultural surplus and urban migration <br>
   b.	International migration <br>
 
+[Econ 448 Syllabus](https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20448%20Syllabus%20Win%2020.pdf)
