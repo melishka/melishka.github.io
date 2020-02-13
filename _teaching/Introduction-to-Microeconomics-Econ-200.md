@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Microeconomics (Economics 200)"
 collection: teaching
+date: 01-01-2011
 permalink: /teaching/Introduction-to-Microeconomics-Econ-200
 ---
 
