@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Microeconomics (Economics 200)"
 collection: teaching
-type: "Undergraduate"
+type: default
 permalink: /teaching/Introduction-to-Microeconomics-Econ-200
 venue: "University of Washington, Department of Economics"
 ---
