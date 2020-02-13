@@ -4,8 +4,6 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/Microeconomic-Theory-Econ-400
 venue: "University of Washington, Department of Economics"
-date: 2012-01-01
-location: "Seattle, WA"
 ---
 Econ 400 is a course in advance microeconomic theory that covers consumer and producer theory, uncertainty, and nash equilibrium.  I teach using multivariate calculus, and students are responsible for derivations of key concepts.  The text is Nicholson and Snyder.
 
