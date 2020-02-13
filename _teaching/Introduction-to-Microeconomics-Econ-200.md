@@ -1,13 +1,14 @@
 ---
 title: "Introduction to Microeconomics (Economics 200)"
 collection: teaching
-type: default
 permalink: /teaching/Introduction-to-Microeconomics-Econ-200
-venue: "University of Washington, Department of Economics"
 ---
+
+[Econ 200 Syllabus](https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20200B%20Syllabus%20Autumn%2019.pdf)
+
 Econ 200 is the first course in the economics sequence at the University of Washington.  We cover consumer theory (preferences, demand) and producer theory (prouction, firm costs, profit maximization, supply curves, perfectly competitve markets, imperfect competition), and the economic consequences of market failure and government intervention (externalities, price controls, taxes and subsidies, efficiency and deadweight loss).  
 
-The text is Karlan and Morduch. <br>
+The text is Karlan and Morduch. 
 
 What is Economics?
 ======
@@ -23,4 +24,4 @@ At the end of the course, students will...
 * Understand how government policies and different institutional arrangements affect theallocation of resources in an economy
 * Use microeconomic principles to understand and explain economic events and other social phenomena
 
-[Econ 200 Syllabus](https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20200B%20Syllabus%20Autumn%2019.pdf)
+
