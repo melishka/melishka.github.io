@@ -23,4 +23,4 @@ At the end of the course, students will...
 * Understand how government policies and different institutional arrangements affect theallocation of resources in an economy
 * Use microeconomic principles to understand and explain economic events and other social phenomena
 
-[Econ 200 Syllabus]("https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20200B%20Syllabus%20Autumn%2019.pdf")
+[Econ 200 Syllabus](https://github.com/melishka/melishka.github.io/blob/master/files/Econ%20200B%20Syllabus%20Autumn%2019.pdf)
