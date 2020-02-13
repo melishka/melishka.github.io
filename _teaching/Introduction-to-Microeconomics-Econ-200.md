@@ -11,7 +11,7 @@ The text is Karlan and Morduch.
 
 What is Economics?
 ======
-Economics is the study of how humans make choices under constraints. Those constraints are typically due to scarcity or tradeoffs, and usually take the form of budgets, prices, or in-put costs. In this class, we study the choices made by individuals and firms (that’s the micro in microeconomics).
+Economics is the study of how humans make choices under constraints. Those constraints are typically due to scarcity or tradeoffs, and usually take the form of budgets, prices, or input costs. In this class, we study the choices made by individuals and firms (that’s the micro in microeconomics).
 
 Course Objectives
 ======
