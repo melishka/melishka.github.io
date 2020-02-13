@@ -4,8 +4,6 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/Population-and-Development-Econ-448
 venue: "University of Washington, Department of Economics"
-date: 2011-01-01
-location: "Seattle, WA"
 ---
 
 Econ 448 is an undergraduate cours that covers economic theories of fertility, marriage, intra-household decision making, gender discrimination, and migration, with real-world applications to the process of economic development.  It fulfills the university's diversity and writing credit requirements.
