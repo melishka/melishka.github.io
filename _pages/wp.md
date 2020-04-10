@@ -15,8 +15,8 @@ Impacts of Mexico’s Seguro Popular Program Five Years after Introduction (stat
 (with Vanessa Oddo, Jessica Jones- Smith, and Lina Pinero Walkinshaw)
 (status: revise and resubmit)
 
-3. [Social Safety Net Programs and the Flow of Return Migrants: Evidence from the Public Provision of Health
-Insurance in Mexico (with Jaime Lara)](https://github.com/melishka/melishka.github.io/blob/master/files/Migration_and_SP_Knox_Lara_2019.pdf) (status: under review)
+3. Social Safety Net Programs and the Flow of Return Migrants: Evidence from the Public Provision of Health
+Insurance in Mexico (with Jaime Lara)
 
 4. Strategic Firm Responses to Sin Taxes and Tax Pass-Through: Evidence from Seattle’s Sweetened Beverage Tax 
 (with Jessica Jones-Smith, Lina Pinero Walkinshaw, and Vanessa Oddo) (status: completed draft)
