@@ -11,7 +11,7 @@ If paper is not posted, please email me for a draft.
 1. Health Care Reform in a Middle Income Country: Transfer Program or Something More? 
 Impacts of Mexico’s Seguro Popular Program Five Years after Introduction (status: revise and resubmit)
 
-2. [Is the Public Sweet on Sugary Beverages? Social Desirability Bias and Sweetened Beverage Taxes](https://melishka.github.io/pdfs/Modal_Analysis_SDB_Knox_2020.pdf)  (with V. Oddo, L.P. Walkinshaw, and J. Jones-Smith) (status: revise and resubmit)
+2. [Is the Public Sweet on Sugary Beverages? Social Desirability Bias and Sweetened Beverage Taxes](https://melishka.github.io/pdfs/Modal_Analysis_SDB_Knox_2020.pdf)  (with V. Oddo, L.P. Walkinshaw, and J. Jones-Smith) (status: forthcoming at Economics and Human Biology)
 
 
 3. Social Safety Net Programs and the Flow of Return Migrants: Evidence from the Public Provision of Health
