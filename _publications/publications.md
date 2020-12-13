@@ -4,7 +4,7 @@ title: "Peer Reviewed Articles"
 permalink: /publications/
 author_profile: true
 ---
-See my [google scholar] (https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7uO4TN5mbimycNQ_37HJlpkzDxGnT94_jsUU8GN6ohLqSPAqaYK-swRLd7ikNhSOPtMYzz3bwIJ_kXqijgpn0KWM0-yEFE_SkETbEws_lrnMJcacU&user=czyFhwcAAAAJ)profile.
+See my [google scholar](https://scholar.google.com/citations?user=czyFhwcAAAAJ&hl=en) profile.
 
 ##Peer-Reviewed Articles by Date:
 Jessica C. Jones-Smith, Lina Pinero Walkinshaw, Vanessa M. Oddo, Melissa Knox, Marian L. Neuhouser, Philip M. Hurvitz, Brian E. Saelens, Nadine Chan,
