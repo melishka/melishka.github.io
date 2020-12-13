@@ -4,9 +4,11 @@ title: "Peer Reviewed Articles"
 permalink: /publications/
 author_profile: true
 ---
+See my [google scholar] (https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7uO4TN5mbimycNQ_37HJlpkzDxGnT94_jsUU8GN6ohLqSPAqaYK-swRLd7ikNhSOPtMYzz3bwIJ_kXqijgpn0KWM0-yEFE_SkETbEws_lrnMJcacU&user=czyFhwcAAAAJ)profile.
 
+##Peer-Reviewed Articles by Date:
 Jessica C. Jones-Smith, Lina Pinero Walkinshaw, Vanessa M. Oddo, Melissa Knox, Marian L. Neuhouser, Philip M. Hurvitz, Brian E. Saelens, Nadine Chan,
-[Impact of a sweetened beverage tax on beverage prices in Seattle, WA](https://melishka.github.io/files/Jones-Smith_et_al_SBT_and_Prices_Economics_and_Human_Biology_2020.pdf), Economics & Human Biology, Volume 39, 2020.
+[Impact of a sweetened beverage tax on beverage prices in Seattle, WA](https://melishka.github.io/files/Jones-Smith_et_al_SBT_Impact_on_Prices_EHB_2020.pdf), Economics & Human Biology, Volume 39, 2020.
 https://doi.org/10.1016/j.ehb.2020.100917.
 
 Melissa A. Knox, Vanessa M. Oddo, Lina Pinero Walkinshaw, Jessica Jones-Smith,
