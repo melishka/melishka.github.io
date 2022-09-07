@@ -9,12 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Pacific Northwest Labor Day (PNWLD) is a workshop organized by Melissa Knox (UW) and Paul Thompson (OSU) (and formerly
-by Jamein Cunningham, now of U of Memphis).  The workshop's purpose is to share and support labor economics research in the Pacific 
-Northwest.  The workshop is also an opportunity to get to know other researchers in the area, promote collaboration, and develop support
-and feedback networks. All labor economists, or economists who use the methodology of labor economics, are invited to attend.  
+## 5th Annual Pacific Northwest Labor Day Workshop
+#### Friday, September 23, 2022
+#### PCMF 2044
+#### Oregon State University Portland Center
+#### Portland, OR
 
-The workshop is typically held in September.  Please check back in early summer for details about the 2020 workshop.
+Registration is requested: https://forms.gle/vtrn8k2crJqbCokv9
+
+### Program
+<p>8:40-9:00	Coffee and Welcome<br>
+<p>9:00-10:05	Session 1: Policing and Migration</p>    
+1. The Impact of Fatal Encounters on Trust in Police (Matthew Harvey, U. of Washington-Tacoma) <br>
+2. Venezuelan Migration in Ecuador (Kathryn Bollman, Oregon State U.) </p>
+
+<p>10:05-10:20	Break</p>
+ 
+<p>10:20-12:00	Session 2: Education I<br>
+1. Friends Don’t Let Friends Drop Out (Darius D. Martin, Western Washington U.)<br>
+2. Does Gender Quota Increase Educational Opportunities for Women? Evidence from a Quasi-Experimental Study in Afghanistan (Rafiuddin Najam, Oregon State U.)<br>
+3. Entrepreneurship Education and Teacher Training in Rwanda: Medium-term Evidence (Todd Pugatch, Oregon State U.)</p>
+ 
+<p>12:00-1:30	Lunch</p>
+ 
+<p>1:30-3:10	Session 3: Education II</br>
+1. Access to Health Insurance in Early Childhood and Schooling in Mexico (Melissa Knox, U. of Washington) <br>
+2. The Impact of School and Childcare Closures on Labor Market Outcomes during the COVID-19 Pandemic (Kairon Shayne D. Garcia, Washington State U.)<br>
+3. One four-day school week model for all? An analysis of state-specific four-day school week achievement impacts (Paul N. Thompson, Oregon State U.)</p>
+ 
+<p>3:10-3:25	Break</p>
+ 
+<p>3:25-4:30	Session 4: Labor Markets<br>
+1. Export Expansion and Labor Market Distortions: Evidence from Vietnam (Hoang Pham, Oregon State U.) <br>
+2. What Labor Supply Elasticities do Employers Face? Evidence from Field Experiments (Claus C. Pörtner, Seattle U.) </p>
+ 
+<p>4:30	Adjourn</p>
+<p>5:00	Dinner (not hosted)</p>
+
 
 Email pnwldorganize@gmail.com with any questions, or to be included in the workshop's email list. <br>
 
