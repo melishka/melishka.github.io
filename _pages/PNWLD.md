@@ -15,7 +15,7 @@ redirect_from:
 #### Oregon State University Portland Center
 #### Portland, OR
 
-Registration is requested: https://forms.gle/vtrn8k2crJqbCokv9
+[Registration is requested](https://forms.gle/vtrn8k2crJqbCokv9)
 
 ### Program
 <p>8:40-9:00	Coffee and Welcome<br>
