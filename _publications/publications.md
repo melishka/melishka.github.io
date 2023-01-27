@@ -7,6 +7,18 @@ author_profile: true
 See my [google scholar](https://scholar.google.com/citations?user=czyFhwcAAAAJ&hl=en) profile.
 
 ## Peer-Reviewed Articles by Date:
+Vanessa M. Oddo, Jessica C. Jones-Smith, and Melissa A. Knox. [Changes in Precarious Employment and Health in the United States Amidst the COVID-19
+Pandemic](https://doi.org/10.1016/j.pmedr.2023.102113). Preventive Medicine Reports, volume 31, page 102113, 2023.
+
+Leah Neff Warner, Lina Pinero Walkinshaw, Vanessa Oddo, Melissa A. Knox, Philip Hurvitz, Anita Rocha, Nadine Chan, Brian E. Saelens, and Jessica C. Jones-Smith.
+[The Availability and Price of Healthy Food in Seattle by Neighborhood Sociodemographic Characteristics](http://dx.doi.org/10.5888/pcd19.220035). Preventing Chronic Disease, volume 19, 2022.
+
+Lauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan, Brian E. Saelens, and Jessica C. Jones-Smith. [Impacts of the Seattle Sweetened
+Beverage Tax on the Perceived Healthfulness of Sweetened Beverages](https://doi.org/10.3390/nu14050993). Nutrients, volume 14, 2022.
+
+Vanessa M. Oddo, Melissa Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadine Chan, and Jessica C. Jones-Smith. [Evaluation of Seattle’s Sweetened Beverage Tax
+on Tax Support and Perceived Economic and Health Impacts](https://doi.org/10.1016/j.pmedr.2022.101809). Preventive Medicine Reports, volume 27, 2022.
+
 Jessica C. Jones-Smith, Melissa A. Knox, Norma B. Coe, Lina P. Walkinshaw, John Schoof, Deven Hamilton, Philip M. Hurvitz, James Krieger,
 [Sweetened beverage taxes: Economic benefits and costs according to household income](https://doi.org/10.1016/j.foodpol.2022.102277), Food Policy, Volume 110, 2022.
 
@@ -14,11 +26,9 @@ Vanessa M. Oddo, Melissa A. Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadi
 [Evaluation of Seattle’s Sweetened Beverage Tax on tax support and perceived economic and health impacts](https://doi.org/10.1016/j.pmedr.2022.101809),
 Preventive Medicine Reports, Volume 27, 2022.
 
-Lauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan,
-Brian E. Saelens, and Jessica C. Jones-Smith. [Impacts of the Seattle Sweetened Beverage Tax on the perceived healthfulness of sweetened beverages](https://doi.org/10.3390/nu14050993). Nutrients, Volume 14, 2022.
+Lauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan,Brian E. Saelens, and Jessica C. Jones-Smith. [Impacts of the Seattle Sweetened Beverage Tax on the perceived healthfulness of sweetened beverages](https://doi.org/10.3390/nu14050993). Nutrients, Volume 14, 2022.
 
-Melissa Knox. [New Evidence on Sweetened Beverage Taxes Points the Way for
-Future Policy and Research](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306508),Invited Editorial for American Journal of Public Health, volume 111, pages
+Melissa Knox. [New Evidence on Sweetened Beverage Taxes Points the Way for Future Policy and Research](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306508),Invited Editorial for American Journal of Public Health, volume 111, pages
 1907–1909, 2021.
 
 Jessica C. Jones-Smith, Lina Pinero Walkinshaw, Vanessa M. Oddo, Melissa Knox, Marian L. Neuhouser, Philip M. Hurvitz, Brian E. Saelens, Nadine Chan,
