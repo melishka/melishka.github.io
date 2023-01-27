@@ -15,8 +15,10 @@ of Seattle's Sweetened Beverage Tax (SBT), introduced in 2018.  I have linked to
 evaluating the impact of the tax on beverage prices and attitudes related to the tax.  This work is primarily funded by the City of Seattle.
 
 [Baseline Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/SBTBaselineReport.pdf) <br>
-[Six-Month Evaluation](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/6%20Month%20Store%20Audit%20Report%20.pdf) <br>
-[Food Availability Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/030519%20Corrected%20Healthy%20Food%20Availability%20Food%20Bank%20Network%20Report_FINAL.pdf) <br>
+[Six-Month Store Beverage Prices Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/6%20Month%20Store%20Audit%20Report%20.pdf) <br>
+[Healthy Food Availability & Food Bank Network Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/030519%20Corrected%20Healthy%20Food%20Availability%20Food%20Bank%20Network%20Report_FINAL.pdf) <br>
+[12 Month Store Audits & Child Cohort](https://www.seattle.gov/documents/Departments/SweetenedBeverageTaxCommAdvisoryBoard/EvaluationReports/12_Month_SBT_Report_Final.pdf) <br>
+[Norms and Attitudes Toward the Tax 24 Months After Implementation](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/NormsReport.pdf)
 
 ## Washington Farm Economy
 Related to my work on the SBT, I produced and independent report with Lina Pinero Walkinshaw on the effect of Seattle's spending of SBT revenues on food access programs.  Specifically, we looked at the ways in which this spending benefitted the Washington farm economy.
