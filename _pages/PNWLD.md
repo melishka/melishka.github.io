@@ -9,9 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-We are currently soliciting submissions for the 6th Annual Pacific Northwest Labor Day Workshop to be held on Friday, September 15, 2023, at the University of Washington in Seattle, WA.  Submissions should be related to either the topics or the methods of labor economics. While abstracts and extended abstracts are both welcome, a slight preference will be given to full working papers that still need significant work and would benefit from the workshop format.  Graduate students going on the job market in 2023-24 are encouraged to apply.  
- 
-Please send submissions  to pnwldorganize@gmail.com. Questions can be directed to knoxm@uw.edu or Paul.Thompson@oregonstate.edu. The deadline for submissions is 11:59 pm on Sunday, July 30th and decisions will be made in early/mid August.  
+#### 6th Annual Pacific Northwest Labor Day Workshop
+September 15, 2023\
+University of Washington\
+Room 410, Savery Hall\
+Seattle, WA\
+[Registration Here](https://forms.gle/TxYV4uDue2e4Yfsv9)\
+(Zoom link available with registration)
+
+
+9:30 – 9:45: Coffee and Pastries
+
+9:50: Opening Remarks
+
+10:00 – 10:50: Melissa Knox, Jessica Jones-Smith, Jessica Godwin, and Steve Mooney. “Using Electronic Health Records to Estimate the Association Between Seattle’s Sweetened Beverage Tax and Weight Gain Trajectories in Adults and Children”
+
+11:00 – 11:50: Cheng Chen and Lucy Hong. "Evaluating E-cigarette Sales Restrictions: Insights into Consumption and Substitution Behavior"
+
+12:00 – 12:50: Katie Bollman, Judhajit Chakraborty, Leah Lakdawala, and Eduardo Nakasone. “Frosty Climate, Icy Relationships: Frosts and Intimate Partner Violence in Rural Peru”
+
+1:00 – 2:00 Lunch 
+
+2:00 – 2:50: Rafiuddin Najam and Paul Thompson. “Impacts of the Four-Day School Week on Juvenile Crime” 
+
+3:00 – 3:50: Todd Pugatch and Paul Thompson. “Excellence for all? University honors programs and human capital formation”
+
+4:00: Adjourn 
+
+
+
 
 
 
