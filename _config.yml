@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Melissa A. Knox, Ph.D."
 title_separator          : "-"
-name                     : &name "Melissa Knox"
+name                     : &name "Melissa A. Knox"
 description              : &description "Associate Teaching Professor of Economics, University of Washington"
 url                      : https://melishka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
