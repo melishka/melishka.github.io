@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "melishka.github.io"
+  title: "Melissa Knox"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
+      - teaching.qmd
+      - outreach.qmd
+      - pnwld.qmd
+      - cv.qmd
+
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
+    page-layout: full
 
-
+editor: visual
 
