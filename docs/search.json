@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "melishka.github.io",
+    "title": "Melissa Knox",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am an Associate Teaching Professor of Economics at the University of Washington, in Seattle, WA. I study the health and economic impacts of health policy.\nI am an economist at the University of Washington with a focus in health economics. My main research is in the ways that households respond to changes in health policy and health care reform in Mexico and Seattle, but my interests vary widely, from individual fertility decisions to the behavioral responses of firms to policy. My Ph.D. is from UC Berkeley Economics, where I specialized in Economic Development and Industrial Organization, and held a fellowship in Demography. I teach microeconomic theory (from intro to advanced) and the economics of population and development.\nMy current research is in two main areas: 1) Household and firm responses to nutrition policy, with a focus on Sweetened Beverage Taxes and Free/Subsidized Meals, and 2) Impacts of Mexico’s large-scale health care reform Seguro Popular on management and treatment of chronic disease, including Type II Diabetes. Please see the links above for more details on my academic projects as well as my outreach efforts.\nYou can contact me at knoxm at uw dot edu or at my mailing address: University of Washington Department of Economics, Box 353330, Seattle, WA 98195-3330."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,96 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Reports, Public engagement, and opinion pieces"
+  },
+  {
+    "objectID": "outreach.html#seattles-sweetened-beverage-tax",
+    "href": "outreach.html#seattles-sweetened-beverage-tax",
+    "title": "Outreach",
+    "section": "Seattle’s Sweetened Beverage Tax",
+    "text": "Seattle’s Sweetened Beverage Tax\nI am part of a team of researchers at UW, Public Health Seattle/King County, and Seattle Children’s Hospital who have evaluated the impacts of Seattle’s Sweetened Beverage Tax (SBT), introduced in 2018. I have linked to the reports to which I have contributed below. My contribution has mainly been in evaluating the impact of the tax on beverage prices and attitudes related to the tax. This work is primarily funded by the City of Seattle.\nBaseline Report  Six-Month Store Beverage Prices Report  Healthy Food Availability & Food Bank Network Report  12 Month Store Audits & Child Cohort  Norms and Attitudes Toward the Tax 24 Months After Implementation"
+  },
+  {
+    "objectID": "outreach.html#washington-farm-economy",
+    "href": "outreach.html#washington-farm-economy",
+    "title": "Outreach",
+    "section": "Washington Farm Economy",
+    "text": "Washington Farm Economy\nRelated to my work on the SBT, I produced and independent report with Lina Pinero Walkinshaw on the effect of Seattle’s spending of SBT revenues on food access programs. Specifically, we looked at the ways in which this spending benefitted the Washington farm economy.\nWA Farm Economy Report"
+  },
+  {
+    "objectID": "outreach.html#public-engagement",
+    "href": "outreach.html#public-engagement",
+    "title": "Outreach",
+    "section": "## Public Engagement",
+    "text": "## Public Engagement\nCan a tax on stock trades pay off the nations student debt? 22 July 2019. The Conversation. Reposted at: Chicago Tribune, Houston Chronicle, SF Gate, Seattle Post-Intelligencer, Motley Fool, and others."
+  },
+  {
+    "objectID": "pnwld.html",
+    "href": "pnwld.html",
+    "title": "PNW Labor Day",
+    "section": "",
+    "text": "{% include base_path %}\n\n6th Annual Pacific Northwest Labor Day Workshop\nSeptember 15, 2023\nUniversity of Washington\nRoom 410, Savery Hall\nSeattle, WA\nRegistration Here\n(Zoom link available with registration)\n9:30 – 9:45: Coffee and Pastries\n9:50: Opening Remarks\n10:00 – 10:50: Melissa Knox, Jessica Jones-Smith, Jessica Godwin, and Steve Mooney. “Using Electronic Health Records to Estimate the Association Between Seattle’s Sweetened Beverage Tax and Weight Gain Trajectories in Adults and Children”\n11:00 – 11:50: Cheng Chen and Lucy Hong. “Evaluating E-cigarette Sales Restrictions: Insights into Consumption and Substitution Behavior”\n12:00 – 12:50: Katie Bollman, Judhajit Chakraborty, Leah Lakdawala, and Eduardo Nakasone. “Frosty Climate, Icy Relationships: Frosts and Intimate Partner Violence in Rural Peru”\n1:00 – 2:00 Lunch\n2:00 – 2:50: Rafiuddin Najam and Paul Thompson. “Impacts of the Four-Day School Week on Juvenile Crime”\n3:00 – 3:50: Todd Pugatch and Paul Thompson. “Excellence for all? University honors programs and human capital formation”\n4:00: Adjourn\n\n\nPast Programs\n{% include base_path %}\n{% for post in site.conferences reversed %} {% include archive-single.html %} {% endfor %}"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "See my google scholar profile."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles-by-date",
+    "href": "publications.html#peer-reviewed-articles-by-date",
+    "title": "Publications",
+    "section": "Peer-Reviewed Articles by Date:",
+    "text": "Peer-Reviewed Articles by Date:\nVanessa M. Oddo, Jessica C. Jones-Smith, and Melissa A. Knox. Changes in Precarious Employment and Health in the United States Amidst the COVID-19 Pandemic. Preventive Medicine Reports, volume 31, page 102113, 2023.\nLeah Neff Warner, Lina Pinero Walkinshaw, Vanessa Oddo, Melissa A. Knox, Philip Hurvitz, Anita Rocha, Nadine Chan, Brian E. Saelens, and Jessica C. Jones-Smith. The Availability and Price of Healthy Food in Seattle by Neighborhood Sociodemographic Characteristics. Preventing Chronic Disease, volume 19, 2022.\nLauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan, Brian E. Saelens, and Jessica C. Jones-Smith. Impacts of the Seattle Sweetened Beverage Tax on the Perceived Healthfulness of Sweetened Beverages. Nutrients, volume 14, 2022.\nVanessa M. Oddo, Melissa Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadine Chan, and Jessica C. Jones-Smith. Evaluation of Seattle’s Sweetened Beverage Tax on Tax Support and Perceived Economic and Health Impacts. Preventive Medicine Reports, volume 27, 2022.\nJessica C. Jones-Smith, Melissa A. Knox, Norma B. Coe, Lina P. Walkinshaw, John Schoof, Deven Hamilton, Philip M. Hurvitz, James Krieger, Sweetened beverage taxes: Economic benefits and costs according to household income, Food Policy, Volume 110, 2022.\nVanessa M. Oddo, Melissa A. Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadine Chan, Jessica C. Jones-Smith, Evaluation of Seattle’s Sweetened Beverage Tax on tax support and perceived economic and health impacts, Preventive Medicine Reports, Volume 27, 2022.\nLauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan,Brian E. Saelens, and Jessica C. Jones-Smith. Impacts of the Seattle Sweetened Beverage Tax on the perceived healthfulness of sweetened beverages. Nutrients, Volume 14, 2022.\nMelissa Knox. New Evidence on Sweetened Beverage Taxes Points the Way for Future Policy and Research,Invited Editorial for American Journal of Public Health, volume 111, pages 1907–1909, 2021.\nJessica C. Jones-Smith, Lina Pinero Walkinshaw, Vanessa M. Oddo, Melissa Knox, Marian L. Neuhouser, Philip M. Hurvitz, Brian E. Saelens, Nadine Chan, Impact of a sweetened beverage tax on beverage prices in Seattle, WA, Economics & Human Biology, Volume 39, 2020. https://doi.org/10.1016/j.ehb.2020.100917\nMelissa A. Knox, Vanessa M. Oddo, Lina Pinero Walkinshaw, Jessica Jones-Smith, Is the public sweet on sugary beverages? Social desirability bias and sweetened beverage taxes, Economics & Human Biology, Volume 38, 2020. https://doi.org/10.1016/j.ehb.2020.100886\nOddo, V.M., Krieger, J., Knox, M. et al. Perceptions of the possible health and economic impacts of Seattle’s sugary beverage tax. BMC Public Health 19, 910 (2019). https://doi.org/10.1186/s12889-019-7133-2\nMelissa Knox, Creating a preference for prevention: the role of universal health care in the demand for preventive care among Mexico’s vulnerable populations, Health Policy and Planning, Volume 33, Issue 7, September 2018, Pages 853–860. https://doi.org/10.1093/heapol/czy062\nCampos-Vázquez, Raymundo M.; Knox, Melissa A. Social protection programs and employment: The case of Mexico’s Seguro Popular program, Economía Mexicana. Nueva Época, vol. XXII, núm. 2, 2013, pp. 403-448."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I regularly teach four classes in the Department of Economics at the University of Washington:"
+  },
+  {
+    "objectID": "teaching.html#introduction-to-microeconomics-econ-200",
+    "href": "teaching.html#introduction-to-microeconomics-econ-200",
+    "title": "Teaching",
+    "section": "Introduction to Microeconomics (Econ 200)",
+    "text": "Introduction to Microeconomics (Econ 200)\nEcon 200 is the first course in the economics sequence at the University of Washington. We cover consumer theory (preferences, demand) and producer theory (production, firm costs, profit maximization, supply curves, perfectly competitive markets, imperfect competition), and the economic consequences of market failure and government intervention (externalities, price controls, taxes and subsidies, efficiency and deadweight loss).\nThe text is Karlan and Morduch.\nsyllabus"
+  },
+  {
+    "objectID": "teaching.html#microeconomic-theory-econ-400",
+    "href": "teaching.html#microeconomic-theory-econ-400",
+    "title": "Teaching",
+    "section": "Microeconomic Theory (Econ 400)",
+    "text": "Microeconomic Theory (Econ 400)\nEcon 400 presents the conceptual foundations and analytical methods of microeconomics. It covers the basic theories of consumer and firm behavior, perfect competition, imperfect competition (monopoly, oligopoly, and monopolistic competition), and decisions under uncertainty.\nThe text is Nicholson and Snyder.\nsyllabus"
+  },
+  {
+    "objectID": "teaching.html#population-and-development-econ-448",
+    "href": "teaching.html#population-and-development-econ-448",
+    "title": "Teaching",
+    "section": "Population and Development (Econ 448)",
+    "text": "Population and Development (Econ 448)\nEcon 448 is an undergraduate course that covers economic theories of fertility, marriage, intra-household decision-making, gender discrimination, and migration, with real-world applications to the process of economic development. It fulfills the university’s diversity and writing credit requirements.\nThere is no text. Students read selected journal articles, book chapters, and popular press pieces.\nsyllabus Class Github Repository"
+  },
+  {
+    "objectID": "teaching.html#teaching-introductory-economics-econ-602",
+    "href": "teaching.html#teaching-introductory-economics-econ-602",
+    "title": "Teaching",
+    "section": "Teaching Introductory Economics (Econ 602)",
+    "text": "Teaching Introductory Economics (Econ 602)\nEcon 602 is a graduate course for first-year graduate students. It teaches the basics of course design and planning for first-time teachers of introductory classes in Economics."
   }
 ]
