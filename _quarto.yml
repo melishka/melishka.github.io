@@ -17,21 +17,22 @@ website:
       - sidebar:PNWLD
       - sidebar:Teaching
       
-      
+   
   sidebar:
     - id: PNWLD
     - title: "PNWLD"
-      background: light
       contents:
-        - pnwld.qmd
+        - text: "PNWLD Program"
+          href: pnwld.qmd
         - auto: PNWLD/*
         
     - id: Teaching
     - title: "Teaching"
       contents:
         - text: "Courses"
-          href: teaching.qmd
-        - students.qmd
+          href: courses.qmd
+        - text: "For Students"
+          href: students.qmd
   
   page-footer: 
     left: Copyright 2024, Melissa Knox
