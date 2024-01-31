@@ -1,13 +1,11 @@
 ---
-layout: archive
 title: "PNW Labor Day"
 permalink: /PNWLD/
 author_profile: true
 redirect_from:
   - /pnwld
----
 
-{% include base_path %}
+---
 
 #### 6th Annual Pacific Northwest Labor Day Workshop
 September 15, 2023\
@@ -36,19 +34,4 @@ Seattle, WA\
 
 4:00: Adjourn 
 
-
-
-
-
-
-
-Past Programs
-======
-
-
-{% include base_path %}
-
-{% for post in site.conferences reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 ---

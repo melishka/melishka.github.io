@@ -3,6 +3,7 @@ layout: archive
 title: "Outreach"
 permalink: /outreach/
 author_profile: true
+toc: true
 ---
 
 Reports, Public engagement, and opinion pieces
@@ -26,6 +27,9 @@ Related to my work on the SBT, I produced and independent report with Lina Piner
 
 
 ## Public Engagement
+Melissa Knox. [New Evidence on Sweetened Beverage Taxes Points the Way for Future Policy and Research](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306508),Invited Editorial for American Journal of Public Health, volume 111, pages
+1907–1909, 2021.
+
 [Can a tax on stock trades pay off the nations student debt?](https://theconversation.com/could-a-tax-on-stock-trades-pay-off-the-nations-student-debt-119514)
 22 July 2019. [The Conversation](https://theconversation.com/us). Reposted at: Chicago Tribune, Houston Chronicle, SF Gate, Seattle Post-Intelligencer, Motley Fool, and others.
 ---

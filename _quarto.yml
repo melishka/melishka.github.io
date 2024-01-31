@@ -2,25 +2,49 @@ project:
   type: website
   output-dir: docs
 
+render:
+    - "*.qmd"
+    
 website:
   title: "Melissa Knox"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - publications.qmd
-      - teaching.qmd
-      - outreach.qmd
-      - pnwld.qmd
       - cv.qmd
-
-
-format:
+      - papers.qmd
+      - outreach.qmd
+      - sidebar:PNWLD
+      - sidebar:Teaching
+      
+      
+  sidebar:
+    - id: PNWLD
+    - title: "PNWLD"
+      background: light
+      contents:
+        - pnwld.qmd
+        - auto: PNWLD/*
+        
+    - id: Teaching
+    - title: "Teaching"
+      contents:
+        - text: "Courses"
+          href: teaching.qmd
+        - students.qmd
+  
+  page-footer: 
+    left: Copyright 2024, Melissa Knox
+    right: Made with RStudio and Quarto
+format: 
   html:
     theme: yeti
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
 
 editor: visual
+
+
+
 

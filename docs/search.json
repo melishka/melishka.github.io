@@ -46,14 +46,14 @@
     "href": "outreach.html#public-engagement",
     "title": "Outreach",
     "section": "Public Engagement",
-    "text": "Public Engagement\nCan a tax on stock trades pay off the nations student debt? 22 July 2019. The Conversation. Reposted at: Chicago Tribune, Houston Chronicle, SF Gate, Seattle Post-Intelligencer, Motley Fool, and others."
+    "text": "Public Engagement\nMelissa Knox. New Evidence on Sweetened Beverage Taxes Points the Way for Future Policy and Research,Invited Editorial for American Journal of Public Health, volume 111, pages 1907–1909, 2021.\nCan a tax on stock trades pay off the nations student debt? 22 July 2019. The Conversation. Reposted at: Chicago Tribune, Houston Chronicle, SF Gate, Seattle Post-Intelligencer, Motley Fool, and others."
   },
   {
     "objectID": "pnwld.html",
     "href": "pnwld.html",
     "title": "PNW Labor Day",
     "section": "",
-    "text": "{% include base_path %}\n\n6th Annual Pacific Northwest Labor Day Workshop\nSeptember 15, 2023\nUniversity of Washington\nRoom 410, Savery Hall\nSeattle, WA\nRegistration Here\n(Zoom link available with registration)\n9:30 – 9:45: Coffee and Pastries\n9:50: Opening Remarks\n10:00 – 10:50: Melissa Knox, Jessica Jones-Smith, Jessica Godwin, and Steve Mooney. “Using Electronic Health Records to Estimate the Association Between Seattle’s Sweetened Beverage Tax and Weight Gain Trajectories in Adults and Children”\n11:00 – 11:50: Cheng Chen and Lucy Hong. “Evaluating E-cigarette Sales Restrictions: Insights into Consumption and Substitution Behavior”\n12:00 – 12:50: Katie Bollman, Judhajit Chakraborty, Leah Lakdawala, and Eduardo Nakasone. “Frosty Climate, Icy Relationships: Frosts and Intimate Partner Violence in Rural Peru”\n1:00 – 2:00 Lunch\n2:00 – 2:50: Rafiuddin Najam and Paul Thompson. “Impacts of the Four-Day School Week on Juvenile Crime”\n3:00 – 3:50: Todd Pugatch and Paul Thompson. “Excellence for all? University honors programs and human capital formation”\n4:00: Adjourn\n\n\nPast Programs\n{% include base_path %}\n{% for post in site.conferences reversed %} {% include archive-single.html %} {% endfor %}"
+    "text": "6th Annual Pacific Northwest Labor Day Workshop\nSeptember 15, 2023\nUniversity of Washington\nRoom 410, Savery Hall\nSeattle, WA\nRegistration Here\n(Zoom link available with registration)\n9:30 – 9:45: Coffee and Pastries\n9:50: Opening Remarks\n10:00 – 10:50: Melissa Knox, Jessica Jones-Smith, Jessica Godwin, and Steve Mooney. “Using Electronic Health Records to Estimate the Association Between Seattle’s Sweetened Beverage Tax and Weight Gain Trajectories in Adults and Children”\n11:00 – 11:50: Cheng Chen and Lucy Hong. “Evaluating E-cigarette Sales Restrictions: Insights into Consumption and Substitution Behavior”\n12:00 – 12:50: Katie Bollman, Judhajit Chakraborty, Leah Lakdawala, and Eduardo Nakasone. “Frosty Climate, Icy Relationships: Frosts and Intimate Partner Violence in Rural Peru”\n1:00 – 2:00 Lunch\n2:00 – 2:50: Rafiuddin Najam and Paul Thompson. “Impacts of the Four-Day School Week on Juvenile Crime”\n3:00 – 3:50: Todd Pugatch and Paul Thompson. “Excellence for all? University honors programs and human capital formation”\n4:00: Adjourn"
   },
   {
     "objectID": "publications.html",
@@ -72,36 +72,85 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Teaching",
+    "title": "Courses",
     "section": "",
     "text": "I regularly teach four classes in the Department of Economics at the University of Washington:"
   },
   {
     "objectID": "teaching.html#introduction-to-microeconomics-econ-200",
     "href": "teaching.html#introduction-to-microeconomics-econ-200",
-    "title": "Teaching",
+    "title": "Courses",
     "section": "Introduction to Microeconomics (Econ 200)",
     "text": "Introduction to Microeconomics (Econ 200)\nEcon 200 is the first course in the economics sequence at the University of Washington. We cover consumer theory (preferences, demand) and producer theory (production, firm costs, profit maximization, supply curves, perfectly competitive markets, imperfect competition), and the economic consequences of market failure and government intervention (externalities, price controls, taxes and subsidies, efficiency and deadweight loss).\nThe text is Karlan and Morduch.\nsyllabus"
   },
   {
     "objectID": "teaching.html#microeconomic-theory-econ-400",
     "href": "teaching.html#microeconomic-theory-econ-400",
-    "title": "Teaching",
+    "title": "Courses",
     "section": "Microeconomic Theory (Econ 400)",
     "text": "Microeconomic Theory (Econ 400)\nEcon 400 presents the conceptual foundations and analytical methods of microeconomics. It covers the basic theories of consumer and firm behavior, perfect competition, imperfect competition (monopoly, oligopoly, and monopolistic competition), and decisions under uncertainty.\nThe text is Nicholson and Snyder.\nsyllabus"
   },
   {
     "objectID": "teaching.html#population-and-development-econ-448",
     "href": "teaching.html#population-and-development-econ-448",
-    "title": "Teaching",
+    "title": "Courses",
     "section": "Population and Development (Econ 448)",
-    "text": "Population and Development (Econ 448)\nEcon 448 is an undergraduate course that covers economic theories of fertility, marriage, intra-household decision-making, gender discrimination, and migration, with real-world applications to the process of economic development. It fulfills the university’s diversity and writing credit requirements.\nThere is no text. Students read selected journal articles, book chapters, and popular press pieces.\nsyllabus Class Github Repository"
+    "text": "Population and Development (Econ 448)\nEcon 448 is an undergraduate course that covers economic theories of fertility, marriage, intra-household decision-making, gender discrimination, and migration, with real-world applications to the process of economic development. It fulfills the university’s diversity and writing credit requirements.\nThere is no text. Students read selected journal articles, book chapters, and popular press pieces.\nsyllabus\nThis class is part of UW Data Science Minor.\nClass Github Repository"
   },
   {
     "objectID": "teaching.html#teaching-introductory-economics-econ-602",
     "href": "teaching.html#teaching-introductory-economics-econ-602",
-    "title": "Teaching",
+    "title": "Courses",
     "section": "Teaching Introductory Economics (Econ 602)",
     "text": "Teaching Introductory Economics (Econ 602)\nEcon 602 is a graduate course for first-year graduate students. It teaches the basics of course design and planning for first-time teachers of introductory classes in Economics."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "See my google scholar profile."
+  },
+  {
+    "objectID": "papers.html#working-papers-contact-me-for-a-draft-if-not-linked",
+    "href": "papers.html#working-papers-contact-me-for-a-draft-if-not-linked",
+    "title": "Papers",
+    "section": "Working Papers (contact me for a draft if not linked)",
+    "text": "Working Papers (contact me for a draft if not linked)\nJessica C Jones-Smith, Melissa Knox, Suman Chakrabarti, Jamie Wallace, Lina Walkinshaw, Stephen J Mooney, Jessica Godwin, David E. Arterburn, Joanna Eavey, Nadine Chan, and Brian E. Saelens, Association between Seattle’s Sweetened Beverage Tax and change in weight status among a patient population of youth” (Status: Revise and Resubmit)\nMelissa Knox and Jessica Jones-Smith. Consumption Responses to Sweetened Beverage Taxes by Household Income. (Status: Under Review)\nAbby Schamp, Hem Morzaria-Luna, Christopher Anderson, Melissa Knox. Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea. (Status: Under Review)\nLeah Neff Warner, Melissa Knox, Amanda Fretts, Brian Saelens, and Jessica Jones-Smith, Investigation of Spillover Effects of a Sugar-Sweetened Beverage Tax on Beverage Purchasing in a Nearby, Non-Taxed Area: A Quasi-Experimental, Difference-in-Differences Analysis. (Status: Under Review)\nMelissa Knox, Vanessa Oddo, Lina Pinero Walkinshaw, Jessica C. Jones-Smith. Tax Salience and Tax Pass Through in Sweetened Beverage Taxes."
+  },
+  {
+    "objectID": "papers.html#peer-reviewed-articles-by-date",
+    "href": "papers.html#peer-reviewed-articles-by-date",
+    "title": "Papers",
+    "section": "Peer-Reviewed Articles by Date:",
+    "text": "Peer-Reviewed Articles by Date:\nAnna Localio, Melissa A. Knox, Anirban Basu, Tom Lindman, Lina Walkinshaw, and Jessica Jones-Smith, Universal free school meals policies and childhood obesity, In Press at Pediatrics.\nNicole Asa, Melissa Knox, Vanessa Oddo, Lina Pinero Walkinshaw, Brian Saelens, Nadine Chan, and Jessica Jones-Smith, Seattle’s sweetened beverage tax implementation and changes in interior marketing displays. Journal of Public Health Policy, 2023.\nAtwood, Alicia and Emerson, Tisha L. N. and Knox, Melissa A. and Taznin, Mahjuja M., Online platforms for classroom experiments: A primer for new adoptees, The Journal of Economic Education, Vol 54, No 4, October 2023.\nVanessa M. Oddo, Jessica C. Jones-Smith, and Melissa A. Knox. Changes in Precarious Employment and Health in the United States Amidst the COVID-19 Pandemic. Preventive Medicine Reports, volume 31, page 102113, 2023.\nLeah Neff Warner, Lina Pinero Walkinshaw, Vanessa Oddo, Melissa A. Knox, Philip Hurvitz, Anita Rocha, Nadine Chan, Brian E. Saelens, and Jessica C. Jones-Smith. The Availability and Price of Healthy Food in Seattle by Neighborhood Sociodemographic Characteristics. Preventing Chronic Disease, volume 19, 2022.\nLauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan, Brian E. Saelens, and Jessica C. Jones-Smith. Impacts of the Seattle Sweetened Beverage Tax on the Perceived Healthfulness of Sweetened Beverages. Nutrients, volume 14, 2022.\nVanessa M. Oddo, Melissa Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadine Chan, and Jessica C. Jones-Smith. Evaluation of Seattle’s Sweetened Beverage Tax on Tax Support and Perceived Economic and Health Impacts. Preventive Medicine Reports, volume 27, 2022.\nJessica C. Jones-Smith, Melissa A. Knox, Norma B. Coe, Lina P. Walkinshaw, John Schoof, Deven Hamilton, Philip M. Hurvitz, James Krieger, Sweetened beverage taxes: Economic benefits and costs according to household income, Food Policy, Volume 110, 2022.\nVanessa M. Oddo, Melissa A. Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadine Chan, Jessica C. Jones-Smith, Evaluation of Seattle’s Sweetened Beverage Tax on tax support and perceived economic and health impacts, Preventive Medicine Reports, Volume 27, 2022.\nLauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan,Brian E. Saelens, and Jessica C. Jones-Smith. Impacts of the Seattle Sweetened Beverage Tax on the perceived healthfulness of sweetened beverages. Nutrients, Volume 14, 2022.\nJessica C. Jones-Smith, Lina Pinero Walkinshaw, Vanessa M. Oddo, Melissa Knox, Marian L. Neuhouser, Philip M. Hurvitz, Brian E. Saelens, Nadine Chan, Impact of a sweetened beverage tax on beverage prices in Seattle, WA, Economics & Human Biology, Volume 39, 2020. https://doi.org/10.1016/j.ehb.2020.100917\nMelissa A. Knox, Vanessa M. Oddo, Lina Pinero Walkinshaw, Jessica Jones-Smith, Is the public sweet on sugary beverages? Social desirability bias and sweetened beverage taxes, Economics & Human Biology, Volume 38, 2020. https://doi.org/10.1016/j.ehb.2020.100886\nOddo, V.M., Krieger, J., Knox, M. et al. Perceptions of the possible health and economic impacts of Seattle’s sugary beverage tax. BMC Public Health 19, 910 (2019). https://doi.org/10.1186/s12889-019-7133-2\nMelissa Knox, Creating a preference for prevention: the role of universal health care in the demand for preventive care among Mexico’s vulnerable populations, Health Policy and Planning, Volume 33, Issue 7, September 2018, Pages 853–860. https://doi.org/10.1093/heapol/czy062\nCampos-Vázquez, Raymundo M.; Knox, Melissa A. Social protection programs and employment: The case of Mexico’s Seguro Popular program, Economía Mexicana. Nueva Época, vol. XXII, núm. 2, 2013, pp. 403-448."
+  },
+  {
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "For Students",
+    "section": "",
+    "text": "## Some Resources for Students"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2016.html",
+    "href": "PNWLD/pnwld-2016.html",
+    "title": "Pacific Northwest Labor Day 2016",
+    "section": "",
+    "text": "(September 23, 2016)"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2016.html#pnw-labor-day-1",
+    "href": "PNWLD/pnwld-2016.html#pnw-labor-day-1",
+    "title": "Pacific Northwest Labor Day 2016",
+    "section": "",
+    "text": "(September 23, 2016)"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2016.html#program",
+    "href": "PNWLD/pnwld-2016.html#program",
+    "title": "Pacific Northwest Labor Day 2016",
+    "section": "Program",
+    "text": "Program\n\nThe Productivity of Rural Non-Farm Self-Employment in India (Joshua D. Merfeld, University of Washington)\n\nTime Allocation Between Children, the Home and Work: Theory and Evidence on the ‘Parental Time – Education Gradient’ Puzzle (Tímea Laura Molnár, University of British Columbia) |\nOnly if You Pay Me More: Field Experiments Support Compensating Wage Differentials Theory (Claus Portner, with Nail Hassairi, and Michael Toomim, Seattle University and University of Washington)\n\nThe Impact of Labor Market Conditions on Job Creation: Evidence from Firm Level Data (Ekaterina Roshchina, University of Washington)\n\nThe Language of the Unheard: Legal Services and the 1960s Race Riots (Jamein P. Cunningham, Portland State University)\n\nMexico’s Seguro Popular Health Reform: Income Transfer Program or Something More? (Melissa Knox, University of Washington)\nThe Affordable Care Act’s Medicaid Fee Increase, Prior Medicaid Generosity, and Disparities in Access to Primary Care (Rajiv Sharma, Sarah Tinkler, Arnab Mitra, Sudeshna Pal, Raven Susu-Mago, Miron Stano, Portland State University and Oakland University)\nEffect of Fiscal Stress Labels on Municipal Government Finances, Housing Prices, and the Quality of Public Services: Evidence from Ohio (Paul Thompson, Oregon State University)"
   }
 ]
