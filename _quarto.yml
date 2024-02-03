@@ -14,25 +14,13 @@ website:
       - cv.qmd
       - papers.qmd
       - outreach.qmd
-      - sidebar:PNWLD
-      - sidebar:Teaching
+      - href: pnwld.qmd
+        text: PNWLD
+      - href: teaching.qmd
+        text: Teaching
       
    
-  sidebar:
-    - id: PNWLD
-    - title: "PNWLD"
-      contents:
-        - text: "PNWLD Program"
-          href: pnwld.qmd
-        - auto: PNWLD/*
-        
-    - id: Teaching
-    - title: "Teaching"
-      contents:
-        - text: "Courses"
-          href: courses.qmd
-        - text: "For Students"
-          href: students.qmd
+
   
   page-footer: 
     left: Copyright 2024, Melissa Knox

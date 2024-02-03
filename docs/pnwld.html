@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,7 +61,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-past-conferences .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-past-conferences'] = new List('listing-past-conferences', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -122,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./pnwld.html">PNW Labor Day</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./pnwld.html">PNWLD Program</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -137,13 +170,37 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./pnwld.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">PNW Labor Day</span></a>
+ <span class="menu-text">PNWLD Program</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./PNWLD/pnwld-2016.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pacific Northwest Labor Day 2016</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./PNWLD/pnwld-2017.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pacific Northwest Labor Day 2017</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./PNWLD/pnwld-2018.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pacific Northwest Labor Day 2018</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./PNWLD/pnwld-2019.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pacific Northwest Labor Day 2019</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./PNWLD/pnwld-2022.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pacific Northwest Labor Day 2022</span></a>
   </div>
 </li>
     </ul>
@@ -172,14 +229,15 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>Email me or pnwldorganize at gmail dot com to be added to the email list. Call for papers coming in Summer 2024!</p>
 <section id="th-annual-pacific-northwest-labor-day-workshop" class="level4">
 <h4 class="anchored" data-anchor-id="th-annual-pacific-northwest-labor-day-workshop">6th Annual Pacific Northwest Labor Day Workshop</h4>
 <p>September 15, 2023<br>
 University of Washington<br>
 Room 410, Savery Hall<br>
 Seattle, WA<br>
-<a href="https://forms.gle/TxYV4uDue2e4Yfsv9">Registration Here</a><br>
-(Zoom link available with registration)</p>
+</p>
+<p>(Zoom link available with registration)</p>
 <p>9:30 – 9:45: Coffee and Pastries</p>
 <p>9:50: Opening Remarks</p>
 <p>10:00 – 10:50: Melissa Knox, Jessica Jones-Smith, Jessica Godwin, and Steve Mooney. “Using Electronic Health Records to Estimate the Association Between Seattle’s Sweetened Beverage Tax and Weight Gain Trajectories in Adults and Children”</p>
@@ -190,11 +248,88 @@ Seattle, WA<br>
 <p>3:00 – 3:50: Todd Pugatch and Paul Thompson. “Excellence for all? University honors programs and human capital formation”</p>
 <p>4:00: Adjourn</p>
 <hr>
+<div id="sample-listings">
+
+</div>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-table" id="listing-past-conferences">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Title
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1706942910155" data-listing-reading-time-sort="2" data-listing-title-sort="Pacific Northwest Labor Day 2016" data-listing-filename-sort="pnwld-2016.qmd">
+<td>
+<a href="./PNWLD/pnwld-2016.html" class="title listing-title">Pacific Northwest Labor Day 2016</a>
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1706943001471" data-listing-reading-time-sort="6" data-listing-title-sort="Pacific Northwest Labor Day 2017" data-listing-filename-sort="pnwld-2017.qmd">
+<td>
+<a href="./PNWLD/pnwld-2017.html" class="title listing-title">Pacific Northwest Labor Day 2017</a>
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1706942896820" data-listing-reading-time-sort="1" data-listing-title-sort="Pacific Northwest Labor Day 2018" data-listing-filename-sort="pnwld-2018.qmd">
+<td>
+<a href="./PNWLD/pnwld-2018.html" class="title listing-title">Pacific Northwest Labor Day 2018</a>
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1706943165725" data-listing-reading-time-sort="1" data-listing-title-sort="Pacific Northwest Labor Day 2019" data-listing-filename-sort="pnwld-2019.qmd">
+<td>
+<a href="./PNWLD/pnwld-2019.html" class="title listing-title">Pacific Northwest Labor Day 2019</a>
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1706943247619" data-listing-reading-time-sort="2" data-listing-title-sort="Pacific Northwest Labor Day 2022" data-listing-filename-sort="pnwld-2022.qmd">
+<td>
+<a href="./PNWLD/pnwld-2022.html" class="title listing-title">Pacific Northwest Labor Day 2022</a>
+</td>
+</tr>
+<tr data-index="5" data-listing-file-modified-sort="1706942911887" data-listing-filename-sort="pnwld-2016.html">
+<td>
+<span class="listing-title">undefined</span>
+</td>
+</tr>
+<tr data-index="6" data-listing-file-modified-sort="1706943002569" data-listing-filename-sort="pnwld-2017.html">
+<td>
+<span class="listing-title">undefined</span>
+</td>
+</tr>
+<tr data-index="7" data-listing-file-modified-sort="1706942897850" data-listing-filename-sort="pnwld-2018.html">
+<td>
+<span class="listing-title">undefined</span>
+</td>
+</tr>
+<tr data-index="8" data-listing-file-modified-sort="1706943166553" data-listing-filename-sort="pnwld-2019.html">
+<td>
+<span class="listing-title">undefined</span>
+</td>
+</tr>
+<tr data-index="9" data-listing-file-modified-sort="1706943249355" data-listing-filename-sort="pnwld-2022.html">
+<td>
+<span class="listing-title">undefined</span>
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

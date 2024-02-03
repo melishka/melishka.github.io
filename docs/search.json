@@ -53,7 +53,7 @@
     "href": "pnwld.html",
     "title": "PNW Labor Day",
     "section": "",
-    "text": "6th Annual Pacific Northwest Labor Day Workshop\nSeptember 15, 2023\nUniversity of Washington\nRoom 410, Savery Hall\nSeattle, WA\nRegistration Here\n(Zoom link available with registration)\n9:30 – 9:45: Coffee and Pastries\n9:50: Opening Remarks\n10:00 – 10:50: Melissa Knox, Jessica Jones-Smith, Jessica Godwin, and Steve Mooney. “Using Electronic Health Records to Estimate the Association Between Seattle’s Sweetened Beverage Tax and Weight Gain Trajectories in Adults and Children”\n11:00 – 11:50: Cheng Chen and Lucy Hong. “Evaluating E-cigarette Sales Restrictions: Insights into Consumption and Substitution Behavior”\n12:00 – 12:50: Katie Bollman, Judhajit Chakraborty, Leah Lakdawala, and Eduardo Nakasone. “Frosty Climate, Icy Relationships: Frosts and Intimate Partner Violence in Rural Peru”\n1:00 – 2:00 Lunch\n2:00 – 2:50: Rafiuddin Najam and Paul Thompson. “Impacts of the Four-Day School Week on Juvenile Crime”\n3:00 – 3:50: Todd Pugatch and Paul Thompson. “Excellence for all? University honors programs and human capital formation”\n4:00: Adjourn"
+    "text": "Email me or pnwldorganize at gmail dot com to be added to the email list. Call for papers coming in Summer 2024!\n\n6th Annual Pacific Northwest Labor Day Workshop\nSeptember 15, 2023\nUniversity of Washington\nRoom 410, Savery Hall\nSeattle, WA\n\n(Zoom link available with registration)\n9:30 – 9:45: Coffee and Pastries\n9:50: Opening Remarks\n10:00 – 10:50: Melissa Knox, Jessica Jones-Smith, Jessica Godwin, and Steve Mooney. “Using Electronic Health Records to Estimate the Association Between Seattle’s Sweetened Beverage Tax and Weight Gain Trajectories in Adults and Children”\n11:00 – 11:50: Cheng Chen and Lucy Hong. “Evaluating E-cigarette Sales Restrictions: Insights into Consumption and Substitution Behavior”\n12:00 – 12:50: Katie Bollman, Judhajit Chakraborty, Leah Lakdawala, and Eduardo Nakasone. “Frosty Climate, Icy Relationships: Frosts and Intimate Partner Violence in Rural Peru”\n1:00 – 2:00 Lunch\n2:00 – 2:50: Rafiuddin Najam and Paul Thompson. “Impacts of the Four-Day School Week on Juvenile Crime”\n3:00 – 3:50: Todd Pugatch and Paul Thompson. “Excellence for all? University honors programs and human capital formation”\n4:00: Adjourn\n\n\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\n\n\n\nPacific Northwest Labor Day 2016\n\n\n\n\nPacific Northwest Labor Day 2017\n\n\n\n\nPacific Northwest Labor Day 2018\n\n\n\n\nPacific Northwest Labor Day 2019\n\n\n\n\nPacific Northwest Labor Day 2022\n\n\n\n\nundefined\n\n\n\n\nundefined\n\n\n\n\nundefined\n\n\n\n\nundefined\n\n\n\n\nundefined\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -74,7 +74,7 @@
     "href": "teaching.html",
     "title": "Courses",
     "section": "",
-    "text": "I regularly teach four classes in the Department of Economics at the University of Washington:"
+    "text": "I regularly teach four classes in the Department of Economics at the University of Washington. The most current version of my coure syllabi can always be found here: UW Econ Syllabi"
   },
   {
     "objectID": "teaching.html#introduction-to-microeconomics-econ-200",
@@ -130,14 +130,14 @@
     "href": "students.html",
     "title": "For Students",
     "section": "",
-    "text": "## Some Resources for Students"
+    "text": "This page is meant to provide resources for students and to answer frequently asked questions. You can navigate the page with the links above. Would you like to see more resources here? Email me!\n\nRecommendation Letter Requests\n\nIf you are considering requesting that I write you a recommendation letter, please read the guidelines for letter requests below.\n\nMinimum Requirements\n\n\nYou took a class (or two) from me and performed in the top 10% of your class (~3.7 grade).\n\nIt’s additionally helpful if you spent time in my office hours discussing anything other than your recommendation letter.\nYou exhibited integrity, motivation, and maturity in my class, or\n\n\n\n\nYou did an independent study or honors thesis with me, or\n\n\n\nYou worked for me or got to know me well in some other capacity.\n\n\n\n\nRequesting a Letter\n\nIf you meet one of the requirements above, please send me an email with your request (and telling me how you meet the criteria above) before October 1. I will let you know by October 15, once I have a sense of how many requests I have received.\nWhether or not I am able to write you a letter, good luck with the application process!\n\n\n\nData Resources for Students\n\n\nEcon 448\nStudents in Econ 448 typically use data from The Human Mortality Database and [IPUMS International](https://international.ipums.org/international/). These are both wonderful sources of data for demographic and household-level studies. Students in Econ 448 are required to make a free account at these websites and agree to all rules and restrictions surrounding the use of the data. Please see class GitHub repository for more information about joining the IPUMS class account and data analysis.\n\n\nOther Sources for International/Household Data Projects\nIPUMS - Census and survey data from around the world. Includes access to the Demographic and Health Surveys from the DHS Program. Worldbank Living Standards Measurement Surveys (LSMS) – link – Household surveys in many countries and many yearsIMF Data Library: Time series data on economic indicators (good source of macro data sets)Economist Intelligence Unit (UW only): Good background data on most countries\n\n\nData Analysis Tips\nI am mainly a Stata user, but I make students in Econ 448 learn and use R. Why? Well, it’s free, it’s more flexible than Stata, it’s more widely used than Stata, and it integrates well with other programs you might want to use like Python or SQL. Need more reasons to learn R?\nHowever, R and Stata are just tools. In order to use them to produce the output you desire, I highly recommend that you focus on two things:\n\nThe structure of your data, both how it is arranged and how you are storing it/importing it into your statistical program. Understanding R packages like tidyr is a great place to start, but you will probably also need some basic understanding of linear algebra to ensure that you process your data correctly.\nThe source of your data, including the codebook, data dictionary, and any survey questions (if you have access). This includes understanding how survey respondents (or whatever entity forms the primary unit of analysis in your data) were chosen.Once you understand these things about your data, figuring out the correct syntax and programming steps is often just a matter of consulting resources like stack exchange. Howevere, if you don’t understand them, it’s pretty hard to trust your results!"
   },
   {
     "objectID": "PNWLD/pnwld-2016.html",
     "href": "PNWLD/pnwld-2016.html",
     "title": "Pacific Northwest Labor Day 2016",
     "section": "",
-    "text": "(September 23, 2016)"
+    "text": "Seattle, WA (September 23, 2016)"
   },
   {
     "objectID": "PNWLD/pnwld-2016.html#pnw-labor-day-1",
@@ -187,5 +187,54 @@
     "title": "Courses",
     "section": "Teaching Introductory Economics (Econ 602)",
     "text": "Teaching Introductory Economics (Econ 602)\nEcon 602 is a graduate course for first-year graduate students. It teaches the basics of course design and planning for first-time teachers of introductory classes in Economics."
+  },
+  {
+    "objectID": "PNWLD/pnwld-2018.html",
+    "href": "PNWLD/pnwld-2018.html",
+    "title": "Pacific Northwest Labor Day 2018",
+    "section": "",
+    "text": "Seattle, WA (September 30, 2018)"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2016.html#first-annual-pnwld",
+    "href": "PNWLD/pnwld-2016.html#first-annual-pnwld",
+    "title": "Pacific Northwest Labor Day 2016",
+    "section": "",
+    "text": "Seattle, WA (September 23, 2016)"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2018.html#program",
+    "href": "PNWLD/pnwld-2018.html#program",
+    "title": "Pacific Northwest Labor Day 2018",
+    "section": "Program",
+    "text": "Program\n\nDownward nominal wage rigidity in the United States (Yoon Joo Jo, Columbia University)\nThe Lazarus Effect and the Labor Market: Evidence from At-Scale Antiretroviral Therapy in Zambia (Nicholas Wilson, Reed College)\nWhat Labor Supply Elasticities do Employers Face? Evidence from Field Experiments (Claus Portner, Seattle University)\nThe Effect of Exposure to Saharan Dust on Neonatal Mortality: Evidence from Burkina Faso (Seyed Karimi, U. of Washington Tacoma)\nInsuring Girls’ Lives Against Drought (Jagori Saha, Rhodes College)\nSemesters or Quarters? The Effect of the Academic Calendar on Postsecondary Graduation Rates (Valerie Bostwick, Ohio State University)\nThe Effects of Four-day School Weeks on Achievement: Evidence from Oregon (Paul N. Thompson, Oregon State University)"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2017.html",
+    "href": "PNWLD/pnwld-2017.html",
+    "title": "Pacific Northwest Labor Day 2017",
+    "section": "",
+    "text": "Second Annual PNWLD\nSeattle, WA (September 20, 2017)\n\n\n\n\n\n\n\nProgram\n\n\n\n\n\n\nNudging Study Habits: A Field Experiment on Peer Tutoring in Higher Education (Nicholas Wilson, The White House Social and Behavioral Sciences Team and Reed College & Todd Pugatch, Oregon State University and IZA)\n\n\n\n\nShould We Trust Occupational Income Scores? (Martin Saavedra, Oberlin College & Tate Twinam, University of Washington Bothell)\n\n\n\n\nThe Effect of Islamic Regulations on Women: Evidence from Indonesia (Amy Lastuka, University of Washington)\n\n\n\n\nThe Use of Emergency Department for Chronic Conditions among New and Continuing Adult Medicaid Beneficiaries in the State of Washington (Bidisha Mandal, Washington State University)\n\n\n\n\nEnvironmental Regulations and the Clean-Up of Manufacturing: Plant-Level Evidence from Canada (Nouri Najjar, University of British Columbia & Jevan Cherniwchan, University of Alberta)"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2019.html",
+    "href": "PNWLD/pnwld-2019.html",
+    "title": "Pacific Northwest Labor Day 2019",
+    "section": "",
+    "text": "Fourth Annual PNWLD\nPortland, OR (September 13, 2019)\nProgram\n\n\nWhy is Aging Associated with Lower Adoption of New Technologies? Evidence from Voluntary Medical Male Circumcision (Nicholas Wilson, Reed College)\nFirm Behavior and the Incidence of Sin Taxes: Evidence from Seattle’s Sweetened Beverage Tax (Melissa Knox, U. of Washington)\nTeacher Labor Markets in Developing Countries (Todd Pugatch, Oregon State U.)\nDoes a Day Off Equal Dollars Saved? The Effects of Four-Day School Weeks on School District Financial Behavior (Paul N. Thompson, Oregon State U.)\nSpillover Effects of Natural Disasters: Evidence from Siblings of Earthquake Victims (Jayash Paudel, Boise State U.)\nOnly if You Pay Me More: Using Field Experiments to Derive Willingness-to-pay for Job Characteristics (Claus Portner, Seattle U.)"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2022.html",
+    "href": "PNWLD/pnwld-2022.html",
+    "title": "Pacific Northwest Labor Day 2022",
+    "section": "",
+    "text": "Registration is requested: https://forms.gle/vtrn8k2crJqbCokv9\n\n\n\n\n8:40-9:00 Coffee and Welcome\n\n9:00-10:05 Session 1: Policing and Migration\n\n\nThe Impact of Fatal Encounters on Trust in Police (Matthew Harvey, U. of Washington-Tacoma) \nVenezuelan Migration in Ecuador (Kathryn Bollman, Oregon State U.)\n\n\n\n10:05-10:20 Break\n\n\n10:20-12:00 Session 2: Education I 1. Friends Don’t Let Friends Drop Out (Darius D. Martin, Western Washington U.) 2. Does Gender Quota Increase Educational Opportunities for Women? Evidence from a Quasi-Experimental Study in Afghanistan (Rafiuddin Najam, Oregon State U.) 3. Entrepreneurship Education and Teacher Training in Rwanda: Medium-term Evidence (Todd Pugatch, Oregon State U.)\n\n\n12:00-1:30 Lunch\n\n\n1:30-3:10 Session 3: Education II 1. Access to Health Insurance in Early Childhood and Schooling in Mexico (Melissa Knox, U. of Washington)  2. The Impact of School and Childcare Closures on Labor Market Outcomes during the COVID-19 Pandemic (Kairon Shayne D. Garcia, Washington State U.) 3. One four-day school week model for all? An analysis of state-specific four-day school week achievement impacts (Paul N. Thompson, Oregon State U.)\n\n\n3:10-3:25 Break\n\n\n3:25-4:30 Session 4: Labor Markets 1. Export Expansion and Labor Market Distortions: Evidence from Vietnam (Hoang Pham, Oregon State U.)  2. What Labor Supply Elasticities do Employers Face? Evidence from Field Experiments (Claus C. Pörtner, Seattle U.)\n\n\n4:30 Adjourn\n\n\n5:00 Dinner (not hosted)"
+  },
+  {
+    "objectID": "PNWLD/pnwld-2022.html#th-annual-pacific-northwest-labor-day-workshop",
+    "href": "PNWLD/pnwld-2022.html#th-annual-pacific-northwest-labor-day-workshop",
+    "title": "Pacific Northwest Labor Day 2022",
+    "section": "",
+    "text": "Registration is requested: https://forms.gle/vtrn8k2crJqbCokv9\n\n\n\n\n8:40-9:00 Coffee and Welcome\n\n9:00-10:05 Session 1: Policing and Migration\n\n\nThe Impact of Fatal Encounters on Trust in Police (Matthew Harvey, U. of Washington-Tacoma) \nVenezuelan Migration in Ecuador (Kathryn Bollman, Oregon State U.)\n\n\n\n10:05-10:20 Break\n\n\n10:20-12:00 Session 2: Education I 1. Friends Don’t Let Friends Drop Out (Darius D. Martin, Western Washington U.) 2. Does Gender Quota Increase Educational Opportunities for Women? Evidence from a Quasi-Experimental Study in Afghanistan (Rafiuddin Najam, Oregon State U.) 3. Entrepreneurship Education and Teacher Training in Rwanda: Medium-term Evidence (Todd Pugatch, Oregon State U.)\n\n\n12:00-1:30 Lunch\n\n\n1:30-3:10 Session 3: Education II 1. Access to Health Insurance in Early Childhood and Schooling in Mexico (Melissa Knox, U. of Washington)  2. The Impact of School and Childcare Closures on Labor Market Outcomes during the COVID-19 Pandemic (Kairon Shayne D. Garcia, Washington State U.) 3. One four-day school week model for all? An analysis of state-specific four-day school week achievement impacts (Paul N. Thompson, Oregon State U.)\n\n\n3:10-3:25 Break\n\n\n3:25-4:30 Session 4: Labor Markets 1. Export Expansion and Labor Market Distortions: Evidence from Vietnam (Hoang Pham, Oregon State U.)  2. What Labor Supply Elasticities do Employers Face? Evidence from Field Experiments (Claus C. Pörtner, Seattle U.)\n\n\n4:30 Adjourn\n\n\n5:00 Dinner (not hosted)"
   }
 ]
