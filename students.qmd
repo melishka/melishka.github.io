@@ -1,6 +1,6 @@
 ---
 title: "For Students"
-format: html
+toc: TRUE
 ---
 
 This page is meant to provide resources for students and to answer frequently asked questions. You can navigate the page with the links above. Would you like to see more resources here? Email me!

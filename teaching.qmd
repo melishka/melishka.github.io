@@ -1,5 +1,6 @@
 ---
 title: "Courses"
+toc: TRUE
 ---
 
 I regularly teach four classes in the Department of Economics at the University of Washington. The most current version of my coure syllabi can always be found here: [UW Econ Syllabi](https://econ.washington.edu/undergraduate-course-syllabi)

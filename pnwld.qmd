@@ -44,5 +44,3 @@ Seattle, WA\
 
 ---
 
-::: {#sample-listings}
-:::

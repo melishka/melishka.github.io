@@ -17,8 +17,9 @@ website:
       - href: pnwld.qmd
         text: PNWLD
       - href: teaching.qmd
-        text: Teaching
-      
+        text: Courses
+      - href: students.qmd
+        text: "For Students"
    
 
   
