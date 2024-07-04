@@ -8,7 +8,8 @@ listing:
   contents: PNWLD/*
   sort: "title"
   sort-ui: false
-  type: table
+  type: grid
+  max-items: 6
   fields: [title]
 ---
 
@@ -23,3 +24,11 @@ Submissions should be emailed to pnwldorganize at gmail dot com by July 16, 2024
 Email me with any questions.
 
 ------------------------------------------------------------------------
+
+## Past Conferences
+
+::: {#past-conferences}
+<div>
+
+</div>
+:::
