@@ -6,9 +6,8 @@ about:
   template: solana
   image-shape: rounded
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/knoxmecon
+    - text: "{{< iconify simple-icons bluesky >}} Blue Sky"
+      href: https://bsky.app/profile/mknox.bsky.social
     - icon: github
       text: Github
       href: https://github.com/melishka
@@ -16,7 +15,6 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=czyFhwcAAAAJ&inst=3314740922994165868
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-7525-0854
-      
 ---
 
 I am an Associate Teaching Professor of Economics at the University of Washington, in Seattle, WA. I study the health and economic impacts of health and nutrition policy.
