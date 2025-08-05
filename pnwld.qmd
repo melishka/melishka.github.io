@@ -9,7 +9,7 @@ listing:
   sort: "title"
   sort-ui: false
   type: grid
-  max-items: 6
+  max-items: 8
   fields: [title]
 ---
 
