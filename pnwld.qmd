@@ -13,38 +13,24 @@ listing:
   fields: [title]
 ---
 
-**7th Annual Pacific Northwest Labor Day Workshop**
+We are currently accepting submissions for the
 
-Friday, October 4, 2024
+**8th Annual Pacific Northwest Labor Day Workshop**
+
+Friday, September 19, 2025
 
 Seattle, WA
 
-Program
+Please email your submission to pnwldorganize\@gmail.com by Sunday, August 17, or reach out to me with any questions!
 
-9:30 – 9:45: Coffee and Pastries
-
-9:50: Opening Remarks
-
-10:00 – 10:50: Katherine Carman and **Kathleen J. Mullen**, “Nice Work if You Can Get It: The Economic Cost of Job-Related Burnout”
-
-11:00 – 11:50: **Patrick Carlin**, Sumedha Gupta, Meredith Adams, Elaine Hill, and Kosali Simon, “Dual Epidemics: The Interaction of The Covid-19 Pandemic and The Opioid Crisis”
-
-12:00 – 12:50: **Benjamin Cowan** and **Kairon Shayne Garcia**, “Politics, Policy, and the Work-from-Home Revolution”
-
-1:00 – 2:00 Lunch 
-
-2:00 – 2:50: **Aurelia (Aochun) Di**, “Inspirational or Demotivational: Experimental Evidence on the Impacts of Role Models”
-
-3:00 – 3:50:  **Paul Thompson,** “Four-Day School Weeks and Teacher Mobility: Evidence from Missouri and Oklahoma”
-
-4:00 – 4:50: **Cheng Chen**, Aurelia (Aochun) Di, and **Lucy Hong**, “Perceived Beliefs about Parents, Academic Performance, and Mental Health: Evidence from Chinese Middle School Students”
+Submissions should be related to either the topics or the methods of labor economics. While abstracts and extended abstracts are both welcome, a slight preference will be given to full working papers that still need significant work and would benefit from the workshop format.  Graduate students going on the job market in 2025-26 are encouraged to apply. 
 
 ------------------------------------------------------------------------
 
 ## Past Conferences
 
-::: {#past-conferences}
+:::: {#past-conferences}
 <div>
 
 </div>
-:::
+::::
