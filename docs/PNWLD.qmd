@@ -8,7 +8,8 @@ listing:
   contents: PNWLD/*
   sort: "title"
   sort-ui: false
-  type: table
+  type: grid
+  max-items: 8
   fields: [title]
 ---
 
@@ -24,4 +25,12 @@ Please email your submission to pnwldorganize\@gmail.com by Sunday, August 17, o
 
 Submissions should be related to either the topics or the methods of labor economics. While abstracts and extended abstracts are both welcome, a slight preference will be given to full working papers that still need significant work and would benefit from the workshop format.  Graduate students going on the job market in 2025-26 are encouraged to apply. 
 
-\
+------------------------------------------------------------------------
+
+## Past Conferences
+
+:::: {#past-conferences}
+<div>
+
+</div>
+::::
