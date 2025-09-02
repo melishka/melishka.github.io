@@ -13,21 +13,39 @@ listing:
   fields: [title]
 ---
 
-We are currently accepting submissions for the
+## 8^th^ Annual Pacific Northwest Labor Day Workshop
 
-**8th Annual Pacific Northwest Labor Day Workshop**
+## September 19, 2025
 
-Friday, September 19, 2025
+*University of Washington*
 
-Seattle, WA
+*Room 410, Savery Hall*
 
-Please email your submission to pnwldorganize\@gmail.com by Sunday, August 17, or reach out to me with any questions!
+*Seattle, WA*
 
-Submissions should be related to either the topics or the methods of labor economics. While abstracts and extended abstracts are both welcome, a slight preference will be given to full working papers that still need significant work and would benefit from the workshop format.  Graduate students going on the job market in 2025-26 are encouraged to apply. 
+### Program
 
-------------------------------------------------------------------------
+9:30 – 9:45: Coffee and Pastries
 
-## Past Conferences
+9:50: Opening Remarks
+
+10:00 – 10:40: Sándor Katona (Eötvös Lóránd University) and Anna Lovász (University of Washington Tacoma). “The Impact of the Gender Composition of Performance Feedback on Peers”
+
+ 10:50 – 11:30: Austin Craig (University of Washington), Rachel Heath, Yael Jacobs, and Melissa Knox. “An Experiment to Include Gender-Related Material in Introductory Microeconomics”
+
+11:40 – 12:20: Stephanie Owen (Colby College) and Derek Rury (Oregon State University). “Implicit Gender Stereotypes and College Major Choice: A Field Experiment”
+
+12:30 – 2:00 Lunch 
+
+2:00 – 2:40: Paul Thompson (Oregon State University). “Uncovering Best Practices in Promoting Achievement within the Four-Day School Week”
+
+2:50 – 3:30:  Denise Hare (Reed College). “Higher Education Returns in China’s General and Vocational Tracks”
+
+3:40 – 4:20: Ananya Diwakant (University of Washington) and T.V. Ninan (Stanford Univerisity). “Intra-household Differences in Perceived Health Risks of Using Solid Fuels for Cooking”
+
+4:30 – 6:00: Walk to the Ave for drinks/dinner
+
+Past Conferences
 
 :::: {#past-conferences}
 <div>
