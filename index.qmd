@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0001-7525-0854
 ---
 
-I am an Associate Teaching Professor of Economics at the University of Washington, in Seattle, WA. I study the health and economic impacts of health and nutrition policy.
+I am a Teaching Professor of Economics at the University of Washington, in Seattle, WA. I study the health and economic impacts of health and nutrition policy.
 
 My current work focuses on nutrition policy, with evaluations of Seattle's Fresh Bucks healthy food subsidy, Universal Free School Meals, and sweetened beverage taxes. But I am also interested in topics ranging from firm behavioral responses to policy to pedagogical innovations in Economics classrooms.
 
