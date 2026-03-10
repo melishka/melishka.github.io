@@ -5,21 +5,21 @@ permalink: /papers/
 author_profile: true
 ---
 
-See my [google scholar](https://scholar.google.com/citations?user=czyFhwcAAAAJ&hl=en) profile.
+## Selected Papers by Field
+
+See my [google scholar](https://scholar.google.com/citations?user=czyFhwcAAAAJ&hl=en) profile or my NIH [bibliography](https://www.ncbi.nlm.nih.gov/myncbi/melissa%20a.knox.1/bibliography/public/) for more.
 
 ## Nutrition
 
+Melissa Knox, Jamie Wallace, Barbara Baquero, KeliAnne Hara-Hubbard, Jessica Jones-Smith. [Healthy Food Benefit Programs, Fruit and Vegetable Consumption, and Food Security](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837765). *JAMA Network Open*, August 2025.
+
+Jessica C Jones-Smith, Anna M Localio, Melissa A Knox, Tom Lindman, Janne Boone-Heinonen, Aileen M Ochoa, and Anirban Basu. [Universal Free School Meals and Child Body Mass Index: Impact Among Children in Community-Based Healthcare Organizations](https://academic.oup.com/healthaffairsscholar/article/3/8/qxaf144/8205819). *Health Affairs Scholar*, volume 3, 2025.
+
+Anna Localio, Paul Hebert, Melissa Knox, Wyatt P. Bensken, Aileen M. Ochoa, Jennifer Sonney, Jessica C. Jones-Smith. [School Provision of Universal Free Meals and Blood Pressure Outcomes Among Youths](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839328). *JAMA Network Open*. September, 2025.
+
 Anna Localio, Melissa A. Knox, Anirban Basu, Tom Lindman, Lina Walkinshaw, and Jessica Jones-Smith, [Universal Free School Meals Policies and Childhood Obesity](https://doi-org.offcampus.lib.washington.edu/10.1542/peds.2023-063749) *Pediatrics*, March 2024.
 
-Leah Neff Warner, Lina Pinero Walkinshaw, Vanessa Oddo, Melissa A. Knox, Philip Hurvitz, Anita Rocha, Nadine Chan, Brian E. Saelens, and Jessica C. Jones-Smith. [The Availability and Price of Healthy Food in Seattle by Neighborhood Sociodemographic Characteristics](http://dx.doi.org/10.5888/pcd19.220035). *Preventing Chronic Disease*, volume 19, 2022.
 
-#### Working Papers
-
-Melissa Knox, Jamie Wallace, Barbara Baquero, KeliAnne Hara-Hubbard, Jessica Jones-Smith. Examining Impacts of a Randomized Implementation of a Healthy Food Benefit Program on Dietary Outcomes. (Status: Under Review)
-
-Jamie Wallace, M. Pia Chaparro, Nadine Chan, Barbara Baquero, Melissa Knox, Jessica Jones-Smith. Association between Household Characteristics and Fruit and Vegetable Consumption, Food Security and Utilization of a Nutrition Incentive Program (Status: Under Review)
-
-Jamie Wallace, M. Pia Chaparro, Jessica Jones-Smith, Melissa Knox, KeliAnne Hara-Hubbard, and Barbara Baquero. Redemption Patterns of the Seattle Fresh Bucks Fruit and Vegetable Incentive Program. (Status: Under Review)
 
 ## Sweetened Beverage Taxes
 
@@ -27,33 +27,16 @@ Melissa Knox and Jessica C. Jones-Smith, [Consumption Responses to Sweetened Bev
 
 Jessica C Jones-Smith, Melissa Knox, Suman Chakrabarti, Jamie Wallace, Lina Walkinshaw, Stephen J Mooney, Jessica Godwin, David E. Arterburn, Joanna Eavey, Nadine Chan, and Brian E. Saelens, [Sweetened Beverage Tax Implementation and Change in Body Mass Index Among Children in Seattle](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819139). *JAMA Network Open*, May 2024.
 
-Nicole Asa, Melissa Knox, Vanessa Oddo, Lina Pinero Walkinshaw, Brian Saelens, Nadine Chan, and Jessica Jones-Smith, [Seattle’s Sweetened Beverage Tax Implementation and Changes in Interior Marketing Displays](https://doi.org/10.1057/s41271-023-00440-7). *Journal of Public Health Policy*, 2023.
-
-Lauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan, Brian E. Saelens, and Jessica C. Jones-Smith. [Impacts of the Seattle Sweetened Beverage Tax on the Perceived Healthfulness of Sweetened Beverages](https://doi.org/10.3390/nu14050993). *Nutrients*, volume 14, 2022.
-
-Vanessa M. Oddo, Melissa Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadine Chan, and Jessica C. Jones-Smith. [Evaluation of Seattle’s Sweetened Beverage Tax on Tax Support and Perceived Economic and Health Impacts](https://doi.org/10.1016/j.pmedr.2022.101809). *Preventive Medicine Reports*, Volume 27, 2022.
-
 Jessica C. Jones-Smith, Melissa A. Knox, Norma B. Coe, Lina P. Walkinshaw, John Schoof, Deven Hamilton, Philip M. Hurvitz, James Krieger, [Sweetened Beverage Taxes: Economic Benefits and Costs According to Household Income](https://doi.org/10.1016/j.foodpol.2022.102277), *Food Policy*, Volume 110, 2022.
 
-Vanessa M. Oddo, Melissa A. Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadine Chan, Jessica C. Jones-Smith, [Evaluation of Seattle’s Sweetened Beverage Tax on tax support and perceived economic and health impacts](https://doi.org/10.1016/j.pmedr.2022.101809), Preventive Medicine Reports, Volume 27, 2022.
-
-Lauren Sawyer, Vanessa M. Oddo, Amanda Fretts, Melissa A. Knox, Nadine Chan,Brian E. Saelens, and Jessica C. Jones-Smith. [Impacts of the Seattle Sweetened Beverage Tax on the Perceived Healthfulness of Sweetened Beverages](https://doi.org/10.3390/nu14050993). Nutrients, Volume 14, 2022.
+Vanessa M. Oddo, Melissa A. Knox, Lina Pinero Walkinshaw, Brian E. Saelens, Nadine Chan, Jessica C. Jones-Smith, [Evaluation of Seattle’s Sweetened Beverage Tax on Tax Support and Perceived Economic and Health Impacts](https://doi.org/10.1016/j.pmedr.2022.101809), Preventive Medicine Reports, Volume 27, 2022.
 
 Jessica C. Jones-Smith, Lina Pinero Walkinshaw, Vanessa M. Oddo, Melissa Knox, Marian L. Neuhouser, Philip M. Hurvitz, Brian E. Saelens, Nadine Chan, [Impact of a Sweetened Beverage Tax on Beverage Prices in Seattle, WA](https://melishka.github.io/files/Jones-Smith_et_al_SBT_Impact_on_Prices_EHB_2020.pdf), Economics & Human Biology, Volume 39, 2020. <https://doi.org/10.1016/j.ehb.2020.100917>
 
 Melissa A. Knox, Vanessa M. Oddo, Lina Pinero Walkinshaw, Jessica Jones-Smith, [Is the Public Sweet on Sugary Beverages? Social Desirability Bias and Sweetened Beverage Taxes](https://melishka.github.io/files/Modal_Analysis_SDB_Knox_2020.pdf), Economics & Human Biology, Volume 38, 2020. <https://doi.org/10.1016/j.ehb.2020.100886>
 
-Oddo, V.M., Krieger, J., Knox, M. et al. [Perceptions of the Possible Health and Economic Impacts of Seattle’s Sugary Beverage Tax](https://melishka.github.io/files/Oddo_et_al_SBT_Perceptions_BMC_2020.pdf). BMC Public Health 19, 910 (2019). <https://doi.org/10.1186/s12889-019-7133-2>
-
-#### Working Papers
-
-Leah Neff Warner, Melissa Knox, Amanda Fretts, Brian Saelens, and Jessica Jones-Smith, [Investigation of Spillover Effects of a Sugar-Sweetened Beverage Tax on Beverage Purchasing in a Nearby, Non-Taxed Area: A Quasi-Experimental, Difference-in-Differences Analysis](https://dx.doi.org/10.2139/ssrn.4668237). (Status: Resubmitted)
-
-Melissa Knox, Vanessa Oddo, Lina Pinero Walkinshaw, Jessica C. Jones-Smith. [Tax Salience and Tax Pass Through in Sweetened Beverage Taxes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4587053).
 
 ## Other Research
-
-Abby Schamp, Hem Morzaria-Luna, Christopher Anderson, Melissa Knox. [Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea](https://dx.doi.org/10.2139/ssrn.4409663). (Status: Resubmitted)
 
 Atwood, Alicia and Emerson, Tisha L. N. and Knox, Melissa A. and Taznin, Mahjuja M., [Online Platforms for Classroom Experiments: A Primer for New Adoptees](https://doi.org/10.1080/00220485.2023.2223538), *The Journal of Economic Education*, Vol 54, No 4, October 2023.
 

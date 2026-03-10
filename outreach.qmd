@@ -8,28 +8,34 @@ toc: true
 
 Reports, Public engagement, and opinion pieces
 
-## Seattle's Sweetened Beverage Tax
-I am part of a team of researchers at UW, Public Health Seattle/King County, and Seattle Children's Hospital who have evaluated the impacts
-of Seattle's Sweetened Beverage Tax (SBT), introduced in 2018.  I have linked to the reports to which I have contributed below.  My contribution has mainly been in 
-evaluating the impact of the tax on beverage prices and attitudes related to the tax.  This work is primarily funded by the City of Seattle.
+## Seattle's Fresh Bucks Program
 
-[Baseline Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/SBTBaselineReport.pdf) <br>
-[Six-Month Store Beverage Prices Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/6%20Month%20Store%20Audit%20Report%20.pdf) <br>
-[Healthy Food Availability & Food Bank Network Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/030519%20Corrected%20Healthy%20Food%20Availability%20Food%20Bank%20Network%20Report_FINAL.pdf) <br>
-[12 Month Store Audits & Child Cohort](https://www.seattle.gov/documents/Departments/SweetenedBeverageTaxCommAdvisoryBoard/EvaluationReports/12_Month_SBT_Report_Final.pdf) <br>
-[Norms and Attitudes Toward the Tax 24 Months After Implementation](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/NormsReport.pdf)
+I am mPI on a multi-year, NIH-funded (R01HL168190), mixed methods research study evaluating Seattle's [Fresh Bucks](https://www.seattlefreshbucks.org/how-it-works/) fruit and vegetable subsidy program. 
+
+Our first paper was written about by UW News [here](https://www.washington.edu/news/2025/08/19/freshbucks/), and in City of Seattle press release [here](https://greenspace.seattle.gov/2025/08/new-university-of-washington-research-shows-seattles-fresh-bucks-program-improves-food-security-and-access-to-healthy-foods/).
+
+Other outlets:
+
++ [The Seattle Times](https://www.seattletimes.com/seattle-news/uw-study-shows-how-a-seattle-program-offering-cash-for-produce-is-faring/)
++ [KUOW](https://www.kuow.org/stories/seattle-fresh-bucks-program-helps-families-eat-more-fruits-vegetables)
+
+I was also invited to speak at a press conference held by Seattle's Mayor Bruce Harrell when he introduced a major expansion of the program!  There is some press about it [here](https://csde.washington.edu/news-events/knox-speaks-at-mayor-harrells-press-conference-on-significant-investment-in-food-access-in-2026-budget/)
+
+
+## Seattle's Sweetened Beverage Tax
+
+I am part of a team of researchers at UW, Public Health Seattle/King County, and Seattle Children's Hospital who have evaluated the impacts of Seattle's Sweetened Beverage Tax (SBT), introduced in 2018. I have linked to the reports to which I have contributed below. My contribution has mainly been in evaluating the impact of the tax on beverage prices and attitudes related to the tax. This work is primarily funded by the City of Seattle.
+
+[Baseline Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/SBTBaselineReport.pdf) <br> [Six-Month Store Beverage Prices Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/6%20Month%20Store%20Audit%20Report%20.pdf) <br> [Healthy Food Availability & Food Bank Network Report](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/030519%20Corrected%20Healthy%20Food%20Availability%20Food%20Bank%20Network%20Report_FINAL.pdf) <br> [12 Month Store Audits & Child Cohort](https://www.seattle.gov/documents/Departments/SweetenedBeverageTaxCommAdvisoryBoard/EvaluationReports/12_Month_SBT_Report_Final.pdf) <br> [Norms and Attitudes Toward the Tax 24 Months After Implementation](https://www.seattle.gov/Documents/Departments/CityAuditor/auditreports/NormsReport.pdf)
 
 ## Washington Farm Economy
-Related to my work on the SBT, I produced and independent report with Lina Pinero Walkinshaw on the effect of Seattle's spending of SBT revenues on food access programs.  Specifically, we looked at the ways in which this spending benefitted the Washington farm economy.
+
+Related to my work on the SBT, I produced and independent report with Lina Pinero Walkinshaw on the effect of Seattle's spending of SBT revenues on food access programs. Specifically, we looked at the ways in which this spending benefitted the Washington farm economy.
 
 [WA Farm Economy Report](https://nutr.uw.edu/resource/city-of-seattle-food-access-spending-farm-economy-analysis-report/)
 
+## Other Public Engagement
 
+Melissa Knox. [New Evidence on Sweetened Beverage Taxes Points the Way for Future Policy and Research](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306508),Invited Editorial for American Journal of Public Health, volume 111, pages 1907–1909, 2021.
 
-## Public Engagement
-Melissa Knox. [New Evidence on Sweetened Beverage Taxes Points the Way for Future Policy and Research](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306508),Invited Editorial for American Journal of Public Health, volume 111, pages
-1907–1909, 2021.
-
-[Can a tax on stock trades pay off the nations student debt?](https://theconversation.com/could-a-tax-on-stock-trades-pay-off-the-nations-student-debt-119514)
-22 July 2019. [The Conversation](https://theconversation.com/us). Reposted at: Chicago Tribune, Houston Chronicle, SF Gate, Seattle Post-Intelligencer, Motley Fool, and others.
----
+[Can a tax on stock trades pay off the nations student debt?](https://theconversation.com/could-a-tax-on-stock-trades-pay-off-the-nations-student-debt-119514) 22 July 2019. [The Conversation](https://theconversation.com/us). Reposted at: Chicago Tribune, Houston Chronicle, SF Gate, Seattle Post-Intelligencer, Motley Fool, and others. ---
